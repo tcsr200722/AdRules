@@ -3,9 +3,9 @@
 # Powerd by CatsTeam
 # Expires: 12 Hours
 # 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等
-# Version: Sat 12/11/2021
-# Last modified: Sat 12/11/2021T22:12:38.79Z
-# Total count: 94940
+# Version: Sun 12/12/2021
+# Last modified: Sun 12/12/2021T10:14:19.99Z
+# Total count: 94941
 0.0.0.0 mmellwauqyajh.top
 0.0.0.0 trustiseverything.de
 0.0.0.0 donttbeevils.de
@@ -51502,6 +51502,7 @@
 0.0.0.0 tu9.3wk.cc
 0.0.0.0 477116.cc
 0.0.0.0 mt.4go.cc
+0.0.0.0 6gt.cc
 0.0.0.0 771058.cc
 0.0.0.0 ji.8881919.cc
 0.0.0.0 su.8881919.cc
@@ -51825,12 +51826,10 @@
 0.0.0.0 pre.ebasos.club
 0.0.0.0 foxcdn.club
 0.0.0.0 imediacrew.club
-0.0.0.0 imspecial.club
 0.0.0.0 nvkrm.instadating.club
 0.0.0.0 ngp1.intnotif.club
 0.0.0.0 cdn.itphanpytor.club
 0.0.0.0 cdn.itskiddoan.club
-0.0.0.0 jlbz.club
 0.0.0.0 a.kagiti.club
 0.0.0.0 a.katomu.club
 0.0.0.0 0uk6n.lokpresearch.club
@@ -51926,7 +51925,6 @@
 0.0.0.0 fota.advmob.cn
 0.0.0.0 adwonder.cn
 0.0.0.0 ad-plus.cn
-0.0.0.0 ahfrhub.cn
 0.0.0.0 a.alimama.cn
 0.0.0.0 v.api.amgmedia.cn
 0.0.0.0 ait025.analysys.cn
@@ -52027,7 +52025,6 @@
 0.0.0.0 c.autohome.com.cn
 0.0.0.0 clickx.autohome.com.cn
 0.0.0.0 rd.autohome.com.cn
-0.0.0.0 autotrading.com.cn
 0.0.0.0 count.chanet.com.cn
 0.0.0.0 file.chanet.com.cn
 0.0.0.0 www.chanet.com.cn
@@ -52220,7 +52217,6 @@
 0.0.0.0 sl.hpplay.cn
 0.0.0.0 ssdkauth.hpplay.cn
 0.0.0.0 ht55.cn
-0.0.0.0 hycra.cn
 0.0.0.0 dd.iask.cn
 0.0.0.0 iconworkshop.cn
 0.0.0.0 www.iconworkshop.cn
@@ -52312,7 +52308,6 @@
 0.0.0.0 s.ninebox.cn
 0.0.0.0 screenshot.ninebox.cn
 0.0.0.0 up.ninebox.cn
-0.0.0.0 nlrpfpq.cn
 0.0.0.0 ntfsformac.cn
 0.0.0.0 www.ntfsformac.cn
 0.0.0.0 iflyad.bj.openstorage.cn
@@ -52337,7 +52332,7 @@
 0.0.0.0 asimgs.pplive.cn
 0.0.0.0 pro.cn
 0.0.0.0 js.ptengine.cn
-0.0.0.0 pvxymnz.cn
+0.0.0.0 b1.puxuewang.cn
 0.0.0.0 qchannel01.cn
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 b.qchannel03.cn
@@ -52457,7 +52452,6 @@
 0.0.0.0 www2.xinmin.cn
 0.0.0.0 a.xnimg.cn
 0.0.0.0 y7jq.cn
-0.0.0.0 yabqg.cn
 0.0.0.0 tongji.yicha.cn
 0.0.0.0 tuiguang.yicha.cn
 0.0.0.0 img-cdn-spot.ymcdn.cn
@@ -52765,9 +52759,11 @@
 0.0.0.0 tr.actualites.01net.com
 0.0.0.0 tr.animations.01net.com
 0.0.0.0 tr.offres.01net.com
+0.0.0.0 02df4ad692.com
 0.0.0.0 pre.03porno.com
 0.0.0.0 b1.0430.com
 0.0.0.0 b2.0430.com
+0.0.0.0 06f5751cb2.com
 0.0.0.0 bb.0755rc.com
 0.0.0.0 xc.08an.com
 0.0.0.0 0byv9mgbn0.com
@@ -52911,6 +52907,7 @@
 0.0.0.0 s.206ads.com
 0.0.0.0 www.206ads.com
 0.0.0.0 s.206solutions.com
+0.0.0.0 20b5d14927.com
 0.0.0.0 m.20mao.com
 0.0.0.0 www.21sme.com
 0.0.0.0 www.222627.com
@@ -52964,7 +52961,6 @@
 0.0.0.0 dp.33across.com
 0.0.0.0 dp1.33across.com
 0.0.0.0 dp2.33across.com
-0.0.0.0 flamenipper.33across.com
 0.0.0.0 optout.33across.com
 0.0.0.0 pixel.33across.com
 0.0.0.0 secure.33across.com
@@ -53011,6 +53007,7 @@
 0.0.0.0 na-ice.360yield.com
 0.0.0.0 origin.360yield.com
 0.0.0.0 publisher.360yield.com
+0.0.0.0 3659a58891.com
 0.0.0.0 your.365advert.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 www.3721.com
@@ -53026,6 +53023,7 @@
 0.0.0.0 leads.383media.com
 0.0.0.0 data.3975.com
 0.0.0.0 39broadway.com
+0.0.0.0 3cba8b24a1.com
 0.0.0.0 3cinteractive.com
 0.0.0.0 3dfreestats.com
 0.0.0.0 www.3dlivestats.com
@@ -53076,6 +53074,7 @@
 0.0.0.0 www.44-trk-srv.com
 0.0.0.0 a8cv.464981.com
 0.0.0.0 r.4at1.com
+0.0.0.0 4d3e6cda67.com
 0.0.0.0 xmlfeedparser.4dsply.com
 0.0.0.0 smetric.4imprint.com
 0.0.0.0 4info.com
@@ -53144,8 +53143,10 @@
 0.0.0.0 www.66-trk-srv.com
 0.0.0.0 bd2-china.6789.com
 0.0.0.0 oms.680news.com
+0.0.0.0 68e8fd59a4.com
 0.0.0.0 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 0.0.0.0 www.6998cdn.com
+0.0.0.0 6b043764c6.com
 0.0.0.0 6d79qh7j.com
 0.0.0.0 6dayauction.com
 0.0.0.0 6kr4ccy1.com
@@ -53189,9 +53190,11 @@
 0.0.0.0 8882915.com
 0.0.0.0 888games.com
 0.0.0.0 www.88infra-strat.com
+0.0.0.0 8d8f8418ca.com
 0.0.0.0 8digits.com
 0.0.0.0 cdn.8digits.com
 0.0.0.0 hit.8digits.com
+0.0.0.0 8e86a1fbc4.com
 0.0.0.0 www.8jzw.com
 0.0.0.0 8kd7ha.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
@@ -53207,6 +53210,7 @@
 0.0.0.0 961.com
 0.0.0.0 m.96mob.com
 0.0.0.0 cdn.9823df.com
+0.0.0.0 99044b0caf.com
 0.0.0.0 991.com
 0.0.0.0 p.99mssj.com
 0.0.0.0 99x.com
@@ -55939,7 +55943,6 @@
 0.0.0.0 cdn.adworkmedia.com
 0.0.0.0 www.adworkmedia.com
 0.0.0.0 serve.adworldmedia.com
-0.0.0.0 adx01.com
 0.0.0.0 cdn.adx1.com
 0.0.0.0 dt.adx1.com
 0.0.0.0 ftp.adx1.com
@@ -57743,6 +57746,7 @@
 0.0.0.0 www2.a-c-engine.com
 0.0.0.0 info.a-m-c.com
 0.0.0.0 ads.a-static.com
+0.0.0.0 b0e2bb2ddb.com
 0.0.0.0 tr.communication.b2b-actualites.com
 0.0.0.0 adserver.b2c.com
 0.0.0.0 cdn.adserver.b2c.com
@@ -57752,6 +57756,7 @@
 0.0.0.0 b3d.com
 0.0.0.0 www.b3d.com
 0.0.0.0 b42rracj.com
+0.0.0.0 b6bc9446da.com
 0.0.0.0 image.b91vip.com
 0.0.0.0 www.b91vip.com
 0.0.0.0 ads.baazee.com
@@ -57934,7 +57939,6 @@
 0.0.0.0 bannerware.com
 0.0.0.0 smetrics.banter.com
 0.0.0.0 bantercubicle.com
-0.0.0.0 banwb.com
 0.0.0.0 active.baofeng.com
 0.0.0.0 midinfo.baofeng.com
 0.0.0.0 area.baomihua.com
@@ -59114,6 +59118,7 @@
 0.0.0.0 c0cd2idcl5.com
 0.0.0.0 c16cp358.com
 0.0.0.0 eandysmith.1cash1234the2.c2strack.com
+0.0.0.0 c378c89b59.com
 0.0.0.0 ct.c3metrics.com
 0.0.0.0 m.c3metrics.com
 0.0.0.0 www.c3metrics.com
@@ -59525,6 +59530,7 @@
 0.0.0.0 www.cetrk.com
 0.0.0.0 www2.cet-uk.com
 0.0.0.0 ebis.ce-parfait.com
+0.0.0.0 cf2c594adf.com
 0.0.0.0 s2.static.cfgr1.com
 0.0.0.0 cfgr2.com
 0.0.0.0 c.cfjump.com
@@ -61034,9 +61040,13 @@
 0.0.0.0 promo2.c-rewards.com
 0.0.0.0 promo3.c-rewards.com
 0.0.0.0 promo4.c-rewards.com
+0.0.0.0 d10384687d.com
 0.0.0.0 ads.d3corp.com
 0.0.0.0 piwik.d50media.com
+0.0.0.0 d556638cbe.com
 0.0.0.0 d8885.com
+0.0.0.0 d8d5624ef8.com
+0.0.0.0 d92d10ea23.com
 0.0.0.0 dabiaozhi.com
 0.0.0.0 saa.dabl.com
 0.0.0.0 services.dacast.com
@@ -61847,6 +61857,7 @@
 0.0.0.0 ad.dzwww.com
 0.0.0.0 ads.d-msquared.com
 0.0.0.0 d-road.com
+0.0.0.0 e15b70d387.com
 0.0.0.0 e3raaf.com
 0.0.0.0 e4npw6g7c9kk.com
 0.0.0.0 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
@@ -62991,6 +63002,7 @@
 0.0.0.0 mktg.aa.f5.com
 0.0.0.0 email.social.f5.com
 0.0.0.0 g.f5gh.com
+0.0.0.0 f619d624b9.com
 0.0.0.0 content.fabasoft.com
 0.0.0.0 stats.fabiofranchino.com
 0.0.0.0 face3media.com
@@ -64089,7 +64101,6 @@
 0.0.0.0 www.gcmadvertising.com
 0.0.0.0 lewis.gct.com
 0.0.0.0 gctatic.com
-0.0.0.0 gctatics.com
 0.0.0.0 pub.gdb-host.com
 0.0.0.0 piostats.gdcorner.com
 0.0.0.0 adsmind.gdtimg.com
@@ -71628,7 +71639,6 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 cdn.o333o.com
 0.0.0.0 media.oadts.com
-0.0.0.0 a1480.oadz.com
 0.0.0.0 a1761.oadz.com
 0.0.0.0 s.oadz.com
 0.0.0.0 oainternet.com
@@ -71988,6 +71998,7 @@
 0.0.0.0 adsfs-in.oppomobile.com
 0.0.0.0 stat.browser.oppomobile.com
 0.0.0.0 opptmzpops.com
+0.0.0.0 opshuckleor.com
 0.0.0.0 look.opskln.com
 0.0.0.0 cdn1.opstag.com
 0.0.0.0 optad360.com
@@ -72262,6 +72273,7 @@
 0.0.0.0 ssc.paramountnetwork.com
 0.0.0.0 saa.paramountplus.com
 0.0.0.0 metrics.parcelforce.com
+0.0.0.0 pardedatl.com
 0.0.0.0 cdn.pardot.com
 0.0.0.0 form-cdn.pardot.com
 0.0.0.0 training.pardot.com
@@ -74103,6 +74115,7 @@
 0.0.0.0 stracking.rogers.com
 0.0.0.0 oms.rogersmedia.com
 0.0.0.0 ads.rohea.com
+0.0.0.0 roinduk.com
 0.0.0.0 tracking.roispy.com
 0.0.0.0 www.roispy.com
 0.0.0.0 roistat.com
@@ -79924,7 +79937,6 @@
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 opus.analytics.yahoo.com
-0.0.0.0 api.gemini.yahoo.com
 0.0.0.0 b.gemini.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -83383,7 +83395,6 @@
 0.0.0.0 xmen2.xtraman.info
 0.0.0.0 m.x-power.info
 0.0.0.0 ncore.ink
-0.0.0.0 timy.ink
 0.0.0.0 analytics.winter.ink
 0.0.0.0 tr.emailing.coe.int
 0.0.0.0 static.dmpkit.1dmp.io
@@ -86691,7 +86702,6 @@
 0.0.0.0 yahoo.bannertrack.net
 0.0.0.0 yasni.bannertrack.net
 0.0.0.0 zoover.bannertrack.net
-0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 web.houyi.baofeng.net
 0.0.0.0 www.barilliance.net
 0.0.0.0 ad.batanga.net
@@ -89355,7 +89365,6 @@
 0.0.0.0 lds.hb.omtrdc.net
 0.0.0.0 nbagroup.hb.omtrdc.net
 0.0.0.0 postmedia.hb.omtrdc.net
-0.0.0.0 skydeutschland.hb.omtrdc.net
 0.0.0.0 stanfordhealthcare.hb.omtrdc.net
 0.0.0.0 vice.hb.omtrdc.net
 0.0.0.0 ns11.omtrdc.net
@@ -92476,7 +92485,6 @@
 0.0.0.0 ws2.bmst.pw
 0.0.0.0 asq.d6shiiwz.pw
 0.0.0.0 flashx.pw
-0.0.0.0 funlove.pw
 0.0.0.0 ltk.pw
 0.0.0.0 magescripts.pw
 0.0.0.0 myforex.pw
@@ -92486,7 +92494,6 @@
 0.0.0.0 teenclubforum.pw
 0.0.0.0 v.vsimasd.pw
 0.0.0.0 younglustforum.pw
-0.0.0.0 youpeng.pw
 0.0.0.0 engage.3m.com.py
 0.0.0.0 adservice.google.com.py
 0.0.0.0 adservice.google.com.qa
@@ -92501,7 +92508,6 @@
 0.0.0.0 d.adsco.re
 0.0.0.0 w.adsco.re
 0.0.0.0 analytics.fkz.re
-0.0.0.0 houmei.ren
 0.0.0.0 attribution.report
 0.0.0.0 postback.report
 0.0.0.0 endljp.activenews.ro
@@ -93333,7 +93339,6 @@
 0.0.0.0 sw.wpu.sh
 0.0.0.0 tw.wpu.sh
 0.0.0.0 smetrics.zalando.sh
-0.0.0.0 lxiu.shop
 0.0.0.0 stats.chapterist.show
 0.0.0.0 ads.24ur.si
 0.0.0.0 8000plus.si
@@ -93617,7 +93622,6 @@
 0.0.0.0 i.bestcontentfood.top
 0.0.0.0 b.bestcontentitem.top
 0.0.0.0 blfjwrii.top
-0.0.0.0 clndkhknntnd.top
 0.0.0.0 www.danweijungu5812.top
 0.0.0.0 freememes.desiceleb.top
 0.0.0.0 sin.di2y21.top
@@ -93625,7 +93629,6 @@
 0.0.0.0 cdn.everylead.top
 0.0.0.0 firrectly.top
 0.0.0.0 rte.fuoo1.top
-0.0.0.0 fxyjmp.top
 0.0.0.0 cpux.gmud.top
 0.0.0.0 www.goubt.top
 0.0.0.0 gupqahkhtpxip.top
@@ -93634,7 +93637,6 @@
 0.0.0.0 www.iasuv928u1q.top
 0.0.0.0 j9j6l.top
 0.0.0.0 jailbaitclub.top
-0.0.0.0 jiujigroup.top
 0.0.0.0 img.jjiv.top
 0.0.0.0 jmprcbnqg.top
 0.0.0.0 wxr.kebi1.top
@@ -94853,7 +94855,6 @@
 0.0.0.0 alkmxckjqnghn.xyz
 0.0.0.0 bnc.autopass.xyz
 0.0.0.0 cdn.ayc0zsm69431gfebd.xyz
-0.0.0.0 b84.xyz
 0.0.0.0 a.benonblkd.xyz
 0.0.0.0 lander.bestsmartlink.xyz
 0.0.0.0 bidmyqps.xyz
