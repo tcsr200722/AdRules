@@ -5,8 +5,8 @@
 ! Expires: 12 Hours
 ! 该规则合并自AdGuardDNS过滤器，1hosts，adgk等
 ! Version: Tue 12/14/2021
-! Last modified: Tue 12/14/2021T10:15:08.44Z
-! Total count: 89513
+! Last modified: Tue 12/14/2021T22:13:35.76Z
+! Total count: 89545
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
 ||skdisplay.jd.com^
@@ -17,6 +17,7 @@
 ||stats.jpush.cn^
 ||tsis.jpush.cn^
 ||dataflow.biliapi.com^
+||lmrycxuojndbekx.top^
 ||hyperlnk.xyz^
 ||enicyvys.xyz^
 ||faluhupo.xyz^
@@ -6320,6 +6321,7 @@
 ||cdnspace.io^
 ||cdntrf.com^
 ||cdrvrs.com^
+||cdtbox.rocks^
 ||cdwcdny.com^
 ||cdwkjldcebynxde.xyz^
 ||cdynxqqckkxof.com^
@@ -6475,6 +6477,7 @@
 ||chpok.pw^
 ||chrigm.com^
 ||christingera.site^
+||christmasaxehandyman.com^
 ||christmasporn.top^
 ||chronicads.com^
 ||chronicleisoconfused.com^
@@ -8903,6 +8906,7 @@
 ||g2921554487.com^
 ||g3j2wzmon8b.com^
 ||g5fzq2l.com^
+||g8ads.com^
 ||g8cp5djk1j0r.com^
 ||ga87z2o.com^
 ||gabbleplacidcelery.com^
@@ -9001,6 +9005,7 @@
 ||gdlnldbvjdt.com^
 ||gdmconvtrck.com^
 ||gdmdigital.com^
+||gdmgsecure.com^
 ||gdrtgroyhtqsx.xyz^
 ||gdrvwsqlikh.com^
 ||gdxisixdrk.com^
@@ -9522,6 +9527,7 @@
 ||haunigre.net^
 ||hauphaun.net^
 ||hausly.info^
+||havail.com^
 ||havamedia.net^
 ||havan3eab9row2n.com^
 ||havenwrite.com^
@@ -10320,6 +10326,7 @@
 ||iyfnz.com^
 ||iyfnzgb.com^
 ||iytafcpbnyauogj.xyz^
+||iyuxivdsvyvjmkk.xyz^
 ||j7rzxe098g5m.com^
 ||jacied.com^
 ||jackao.net^
@@ -10686,6 +10693,7 @@
 ||khg97644rvbg.com^
 ||kibblerkilldee.com^
 ||kicasipto.com^
+||kidnappingendless.com^
 ||kidrarsi.net^
 ||kikoucuy.net^
 ||killerparadehay.com^
@@ -10789,6 +10797,7 @@
 ||koten.zone^
 ||kotikinar2ko8tiki09.com^
 ||koukomol.com^
+||kounfuipahjgvvl.top^
 ||kouraija.net^
 ||koutobey.net^
 ||kouwheey.net^
@@ -11720,6 +11729,7 @@
 ||ml0z14azlflr.com^
 ||ml314.com^
 ||mlexvlcjcjshp.com^
+||mlfaudrsegab.top^
 ||mlnadvertising.com^
 ||mlscmevlspljh.com^
 ||mlsys.xyz^
@@ -15070,6 +15080,7 @@
 ||sharieta.com^
 ||sharpconnatechamber.com^
 ||sharpycurvet.com^
+||shaursar.net^
 ||shauthou.net^
 ||shawlyni.name^
 ||shawuh2a8nyam09.com^
@@ -15440,6 +15451,7 @@
 ||spellbeggarlygay.com^
 ||spellingpigeonssecret.com^
 ||spellresolute.com^
+||spelop.com^
 ||spentforearmprovenance.com^
 ||spenttabsnail.com^
 ||speop.com^
@@ -16850,6 +16862,7 @@
 ||ventrequmus.com^
 ||venturead.com^
 ||venuegirtjive.com^
+||venusantibiotic.com^
 ||veopvpgxcrt.com^
 ||verblife-5.co^
 ||veremund-hon.com^
@@ -18514,6 +18527,7 @@
 ||arcadebanners.com^
 ||arcadechain.com^
 ||artsai.com^
+||assemblyexchange.com^
 ||assoc-amazon.ca^
 ||assoc-amazon.co.uk^
 ||assoc-amazon.com^
@@ -19652,6 +19666,7 @@
 ||api.140proof.com^
 ||api.bitp.it^
 ||appnext-a.akamaihd.net^
+||apps.media-lab.ai^
 ||assets.sheetmusicplus.com^
 ||award.sitekeuring.net^
 ||bc.coupons.com^
@@ -30005,6 +30020,9 @@
 ||cxtvli.com^
 ||sytxao.com^
 ||5moxhf6z8c.ru^
+||killtarget.biz^
+||killtarget.com^
+||killtarget.pro^
 ||tpizy1uy3x.ru^
 ||pro-100news.ru^
 ||tick-tock.net^
@@ -36602,6 +36620,7 @@
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
+||lm213.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38353,6 +38372,7 @@
 ||zeroao.cn^
 ||zeronethree.xyz^
 ||zf678.com^
+||zfgan.com^
 ||zfkmw.com^
 ||zgbbtjt.com^
 ||zgc66.com^
@@ -39519,13 +39539,10 @@
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||yueyuego.com^
-||beiyc.com^
-||muybjar.cn^
-||hxskjll.cn^
-||shuaiqiwudixiaoliangzaidddd.icu^
-||studytest.icu^
-||xujie.xyz^
+||w6gis5.com^
+||whatisupman.site^
+||abczlnycba.icu^
+||cfpl.online^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -39962,6 +39979,7 @@
 ||bdzxdyff.cn^
 ||beautylamp.cn^
 ||beibhw.cn^
+||beidw.com^
 ||beifb.com^
 ||beifd.com^
 ||beifmu.com^
@@ -39973,6 +39991,7 @@
 ||beiwm.com^
 ||beixbw.cn^
 ||beixcw.cn^
+||beiyc.com^
 ||beizhoujt.cn^
 ||beizkw.cn^
 ||beiztw.cn^
@@ -40444,6 +40463,7 @@
 ||gnfvwfo.cn^
 ||go06.cc^
 ||go07.cc^
+||goaljet.ltd^
 ||gongshangwang.top^
 ||gongxifc.com^
 ||grggkas.cn^
@@ -40486,6 +40506,7 @@
 ||hvzlgyi.cn^
 ||hxclove.club^
 ||hxf1688.xyz^
+||hxskjll.cn^
 ||hycra.cn^
 ||hypnos04.com^
 ||hzghyt.cc^
@@ -40617,6 +40638,7 @@
 ||mpzls.cn^
 ||mryang.cloud^
 ||msiqhvl.cn^
+||muybjar.cn^
 ||muyijia.shop^
 ||mxxgs.cn^
 ||myyuye.club^
@@ -40730,6 +40752,7 @@
 ||shareman.xyz^
 ||sherrycha.cn^
 ||shproud.com^
+||shuaiqiwudixiaoliangzaidddd.icu^
 ||siikzd1.cn^
 ||simastudio.cn^
 ||sjmmhhh.cn^
@@ -40742,6 +40765,7 @@
 ||stbaolin.cn^
 ||sthyhj.cn^
 ||stkx888.cn^
+||studytest.icu^
 ||sunmartkj.cn^
 ||svjxuba.cn^
 ||swjrzk.cn^
@@ -40862,6 +40886,7 @@
 ||xpxmpf.cn^
 ||xsgkjsb.cn^
 ||xsrypte.cn^
+||xujie.xyz^
 ||xxw777.cn^
 ||xzcvfdwe.cn^
 ||xzjgzpw.cn^
@@ -40890,9 +40915,11 @@
 ||youpeng.pw^
 ||ypgdnrz.cn^
 ||yuanwei.ltd^
+||yueyuego.com^
 ||yumingdan.top^
 ||yunfeiyang.club^
 ||yushuha.com^
+||ywzkiug.cn^
 ||yxwpmav.cn^
 ||z-xiao.xyz^
 ||zcmnffq.cn^
@@ -75114,6 +75141,7 @@
 ||arcadebanners.com^$third-party
 ||arcadechain.com^$third-party
 ||artsai.com^$third-party
+||assemblyexchange.com^$third-party
 ||assoc-amazon.ca^$third-party
 ||assoc-amazon.co.uk^$third-party
 ||assoc-amazon.com^$third-party
@@ -77487,6 +77515,7 @@
 ||smartwebads.com^$popup
 ||smokedenforcementranch.com^$popup
 ||smrtgs.com^$popup
+||smrtsecure-eml.com^$popup
 ||snammar-jumntal.com^$popup
 ||sniffingmeanwhilecar.com^$popup
 ||snowads.net^$popup,third-party
@@ -77675,6 +77704,7 @@
 ||vcdc.com^$popup
 ||vcommission.com^$popup
 ||venturead.com^$popup
+||venusantibiotic.com^$popup
 ||verblife-2.co^$popup
 ||verblife-5.co^$popup
 ||vertoz.com^$popup
@@ -78598,6 +78628,7 @@
 ||streamblocked.com^$popup
 ||superblackfriday.deals^$popup
 ||torrent-protection.com^$popup
+||trck.cdprivate.com^$popup
 ||vid-adblocker.com^$popup
 ||vpnfortorrents.best^$popup
 ||vpnfortorrents.org^$popup
@@ -80176,6 +80207,7 @@
 @@||cdn.bootcss.com^$script,domain=59xs.com|ah123z.com|biqudd.com|didaxiaoshuo.cc|gllmh.com|luoqiuzw.com|shudai.cc|xbiqugela.com|xhtxt.cc|xiaoshuwu5.com|ysxs8.com
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xsw.com|31xiaoshuo.com|biququ.info|feisucn.net|tsxsw.la|ziyouge.top
+@@||lib.baomitu.com^$domain=meituhe.com
 @@||libs.baidu.com^$domain=0794.org|0biquge.com|12zw.la|138txt.net|18xs.org|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.com|23wxx.com|258zw.com|27xsw.com|30sy.cc|33yq.org|3yt.com|477zw.co|52biquge.com|5ccc.tw|63xs.org|73zw.cc|777zw.net|80xs.la|81book.com|81zw.me|877zw.com|99mk.com|aidusk.com|aixswx.com|aoyuge.com|baoshuu.com|biduoxs.com|bifeige.com|bimixsw.com|biqiugege8.com|biquav.com|biqudu.tv|biquge.lu|biquge775.com|biquge98.net|biqugecd.com|biqugee.com|biqugesc.com|biquka.com|biqusan.com|biquwx.la|bixia.org|bodekang.net|boluoxs.com|botaodz.com|bqktxt.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|damengzhu1.com|datangjianshen.com|day66.com|ddxsku.com|dushuge.org|faquge.com|gdbzkz.com|guaili.org|guanshu.cc|hatxt.com|hbfie.org|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huixsw.com|hybiquge.com|ibiquta.com|imiaobige.com|ishisetianxia.com|ishubao.org|ixs.la|jianlaixiaoshuo.com|jx.la|kankezw.com|kkbiqu2.com|liewen.la|lindiankanshu.cc|liuxs.la|loubiqu.com|lwsktxt.com|lwtxt.net|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|piaotianxs.com|pksge.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qiuyewx.com|qr1234.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shenshuxs.com|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|silukew.com|siluwx.org|sizhicn.com|sobiquge.com|soxscc.com|ttzw.tv|tutengzw.com|txshuku.la|txtshuku.org|tycqge.com|u33.me|vipsk.org|wbxsw.com|wenxuem.com|wurexs.com|x23us.me|x81zw.co|xbiquge.la|xbiqugecc.com|xbiquke.com|xbqge.net|xdingdiann.com|xiaoshuwu5.com|xiaxs.la|xieyixs.com|xinshuhaige.net|xinxs.la|xs5200.com|xs98.com|xsbiqugew.com|xsqishu.com|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yanqing888.org|yikanxiaoshuoa.com|yruan.com|yssm.info|yunxs.com|zaodk.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||piaotian5www.cdn.bcebos.com^$script,domain=piaotian5.net

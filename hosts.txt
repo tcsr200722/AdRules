@@ -4,8 +4,8 @@
 # Expires: 12 Hours
 # 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等
 # Version: Tue 12/14/2021
-# Last modified: Tue 12/14/2021T10:15:11.01Z
-# Total count: 95010
+# Last modified: Tue 12/14/2021T22:13:38.14Z
+# Total count: 95016
 0.0.0.0 hyperlnk.xyz
 0.0.0.0 enicyvys.xyz
 0.0.0.0 faluhupo.xyz
@@ -43898,6 +43898,7 @@
 127.0.0.1 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 127.0.0.1 rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 127.0.0.1 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
+127.0.0.1 huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
 127.0.0.1 btf-analytics.s3.amazonaws.com
@@ -43911,6 +43912,7 @@
 127.0.0.1 later-analytics-reports.s3-accelerate.amazonaws.com
 127.0.0.1 bin5y4muil.execute-api.us-east-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
+127.0.0.1 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 127.0.0.1 amoad.com
 127.0.0.1 m.amoad.com
 127.0.0.1 amobee.com
@@ -44611,6 +44613,7 @@
 127.0.0.1 ids.cdnwidget.com
 127.0.0.1 pixel.cdnwidget.com
 127.0.0.1 u.cdnwidget.com
+127.0.0.1 api.monedata.iomericreceiver.cellrebel.com
 127.0.0.1 celltick.com
 127.0.0.1 contentapi.celltick.com
 127.0.0.1 celtra.com
@@ -45921,6 +45924,7 @@
 127.0.0.1 crashlytics2.l.google.com
 127.0.0.1 s0-2mdn-net.l.google.com
 127.0.0.1 googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 crashlyticsreports-pa.googleapis.com
@@ -45928,9 +45932,6 @@
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 googletagmanager.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 www.googletagservices.com
 127.0.0.1 displayads-formats.googleusercontent.com
 127.0.0.1 gop1.co
 127.0.0.1 aos.gop1.co
@@ -46061,6 +46062,8 @@
 127.0.0.1 t2.hulu.com
 127.0.0.1 segment.humann.com
 127.0.0.1 segment-api.humann.com
+127.0.0.1 huq.io
+127.0.0.1 api.huq.io
 127.0.0.1 api.huqindustries.co.uk
 127.0.0.1 charles.huqindustries.co.uk
 127.0.0.1 crosspromo.hutchgames.io
@@ -47059,6 +47062,7 @@
 127.0.0.1 track.mdrctr.com
 127.0.0.1 measuread.com
 127.0.0.1 b.measuread.com
+127.0.0.1 mobile.measurelib.com
 127.0.0.1 measurementapi.com
 127.0.0.1 abd.media.net
 127.0.0.1 adservetx.media.net
@@ -47764,6 +47768,7 @@
 127.0.0.1 wsback2b.prod.cloud.ogury.io
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 dsp-1.ogury.io
+127.0.0.1 sdk-monitoring.ogury.io
 127.0.0.1 wad.ojooo.com
 127.0.0.1 api2.okanjo.com
 127.0.0.1 cdn.okanjo.com
@@ -49389,6 +49394,7 @@
 127.0.0.1 metrics.ted.com
 127.0.0.1 api.videometrics.ted.com
 127.0.0.1 sstats.teenvogue.com
+127.0.0.1 nav.telematicsdirect.com
 127.0.0.1 beacon.sparta.mig.tencent-cloud.net
 127.0.0.1 tend.io
 127.0.0.1 track.tend.io
