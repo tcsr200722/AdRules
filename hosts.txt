@@ -3,9 +3,9 @@
 # Powerd by CatsTeam
 # Expires: 12 Hours
 # 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等
-# Version: Mon 12/20/2021
-# Last modified: Mon 12/20/2021T22:13:37.51Z
-# Total count: 93803
+# Version: Tue 12/21/2021
+# Last modified: Tue 12/21/2021T10:15:19.75Z
+# Total count: 93834
 0.0.0.0 super-ladies-now.life
 0.0.0.0 evealm.com
 0.0.0.0 fruine.com
@@ -51836,6 +51836,7 @@
 0.0.0.0 smetrics.pcoptimum.ca
 0.0.0.0 smetrics.pearlevision.ca
 0.0.0.0 phoenixinvestigations.ca
+0.0.0.0 lumtjt.plumbingonline.ca
 0.0.0.0 smetrics.potterybarnkids.ca
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 mdws.prospera.ca
@@ -52462,6 +52463,7 @@
 0.0.0.0 usercollection.chinadaily.com.cn
 0.0.0.0 dcjs.cig.com.cn
 0.0.0.0 pic.cnmo-img.com.cn
+0.0.0.0 phpstat.cntcm.com.cn
 0.0.0.0 www.datamaster.com.cn
 0.0.0.0 static.diditaxi.com.cn
 0.0.0.0 ads.doit.com.cn
@@ -56417,6 +56419,7 @@
 0.0.0.0 click.aep-email.com
 0.0.0.0 med.aerochambervhc.com
 0.0.0.0 som.aeroplan.com
+0.0.0.0 pzxhyp.aeropostale.com
 0.0.0.0 securetags.aeroterra.com
 0.0.0.0 aerserv.com
 0.0.0.0 prod-ads.aerserv.com
@@ -57923,6 +57926,7 @@
 0.0.0.0 fdkeip.azafashions.com
 0.0.0.0 azaipsee.com
 0.0.0.0 www.azalead.com
+0.0.0.0 lgbdxo.azazie.com
 0.0.0.0 news.azcapitoltimes.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 sxjfhh.azcentral.com
@@ -58883,13 +58887,13 @@
 0.0.0.0 email.boxed.com
 0.0.0.0 links.boxed.com
 0.0.0.0 act.boxerproperty.com
-0.0.0.0 oncahh.boxlunch.com
 0.0.0.0 marketing.boxmanstudios.com
 0.0.0.0 boxofwhisper.com
 0.0.0.0 fahmta.boxrec.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 bpath.com
 0.0.0.0 www.bptracking.com
+0.0.0.0 gzjroa.bradsdeals.com
 0.0.0.0 tracking.bradyid.com
 0.0.0.0 atlantisjs.brafton.com
 0.0.0.0 brainboxdigital.com
@@ -59274,6 +59278,7 @@
 0.0.0.0 smetrics.cadenaser.com
 0.0.0.0 omniture-dc-sec.cadence.com
 0.0.0.0 pdmsmrt.cadillac.com
+0.0.0.0 cadlsyndicate.com
 0.0.0.0 piwik.cadooz.com
 0.0.0.0 cadslims.com
 0.0.0.0 www.cadvision.com
@@ -59390,6 +59395,7 @@
 0.0.0.0 www.care5alea.com
 0.0.0.0 somni.carecredit.com
 0.0.0.0 omni.carecreditprovidercenter.com
+0.0.0.0 somni.carecreditprovidercenter.com
 0.0.0.0 metrics.carfax.com
 0.0.0.0 mx.carfax.com
 0.0.0.0 smetrics.carfax.com
@@ -59417,6 +59423,7 @@
 0.0.0.0 www.cart8draw.com
 0.0.0.0 metrics.carters.com
 0.0.0.0 smetrics.carters.com
+0.0.0.0 vpnuyy.carters.com
 0.0.0.0 sstats.cartoonnetwork.com
 0.0.0.0 sanalytics.cartoonnetworkarabic.com
 0.0.0.0 sanalytics.cartoonnetworkasia.com
@@ -60145,6 +60152,7 @@
 0.0.0.0 cmtgroup.com
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 id1.cn.com
+0.0.0.0 smetrics.cnb.com
 0.0.0.0 ads.cnbc.com
 0.0.0.0 count.cncrk.com
 0.0.0.0 www.cnej4912jks.com
@@ -61370,6 +61378,7 @@
 0.0.0.0 api.destinationrewards.com
 0.0.0.0 www.destinationurl.com
 0.0.0.0 analytic.detik.com
+0.0.0.0 sxjfhh.detroitnews.com
 0.0.0.0 a.deutschehospitality.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 zeus.developershed.com
@@ -61814,6 +61823,7 @@
 0.0.0.0 exchange.dumb1.com
 0.0.0.0 secure.dump4barn.com
 0.0.0.0 www.dump4barn.com
+0.0.0.0 dwglgp.dunelm.com
 0.0.0.0 www.duniavirtual.com
 0.0.0.0 a-cn.duoyi.com
 0.0.0.0 dupelipperan.com
@@ -62043,6 +62053,7 @@
 0.0.0.0 ns106.ehostpros.com
 0.0.0.0 wsc.ehost-services.com
 0.0.0.0 bit.ehow.com
+0.0.0.0 detnmz.ehow.com
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 adserve.ehpub.com
 0.0.0.0 metrics.ehstoday.com
@@ -62272,6 +62283,7 @@
 0.0.0.0 enzonehypped.com
 0.0.0.0 tpubrk.eobuv.com
 0.0.0.0 ak1.aka.eonline.com
+0.0.0.0 ijaabm.eonline.com
 0.0.0.0 swa.eonline.com
 0.0.0.0 www.eonsmedia.com
 0.0.0.0 track.eovnx.com
@@ -64869,6 +64881,7 @@
 0.0.0.0 secure-e.healthiq.com
 0.0.0.0 tracking.healthitanalytics.com
 0.0.0.0 ads.healthline.com
+0.0.0.0 smetrics.healthnetcalifornia.com
 0.0.0.0 smetrics.healthpartners.com
 0.0.0.0 www.healthsmd.com
 0.0.0.0 tk.healthwarehouse.com
@@ -65233,6 +65246,7 @@
 0.0.0.0 www3.hot-mob.com
 0.0.0.0 wxtz.houmags.com
 0.0.0.0 click.email.houndapp.com
+0.0.0.0 houndcost.com
 0.0.0.0 ad.house365.com
 0.0.0.0 ads.house365.com
 0.0.0.0 metrics2.houselogic.com
@@ -65337,7 +65351,6 @@
 0.0.0.0 image.res.hunantv.com
 0.0.0.0 log.v2.hunantv.com
 0.0.0.0 alerts.hungama.com
-0.0.0.0 detnmz.hunker.com
 0.0.0.0 hunterlead.com
 0.0.0.0 www.hunter-details.com
 0.0.0.0 smetrics.huntington.com
@@ -66419,6 +66432,7 @@
 0.0.0.0 info.jadelearning.com
 0.0.0.0 jaduda.com
 0.0.0.0 www.jagcn.com
+0.0.0.0 r.jakuli.com
 0.0.0.0 janus.r.jakuli.com
 0.0.0.0 jambocast.com
 0.0.0.0 ivajdy.jamhomemadeonlineshop.com
@@ -67235,6 +67249,7 @@
 0.0.0.0 um.ladsp.com
 0.0.0.0 vast.ladsp.com
 0.0.0.0 www.ladylust.com
+0.0.0.0 r.lafamo.com
 0.0.0.0 luna.r.lafamo.com
 0.0.0.0 metrics.lafourchette.com
 0.0.0.0 lahemal.com
@@ -67260,7 +67275,6 @@
 0.0.0.0 affiliate.landsend.com
 0.0.0.0 scnd.landsend.com
 0.0.0.0 marketing.landuscooperative.com
-0.0.0.0 smetrics.lanebryant.com
 0.0.0.0 metric.langhamhotels.com
 0.0.0.0 metrics.langhamhotels.com
 0.0.0.0 api.lanistaads.com
@@ -67307,6 +67321,7 @@
 0.0.0.0 secure.lave6loki.com
 0.0.0.0 www.lave6loki.com
 0.0.0.0 lavechefantast.com
+0.0.0.0 laveerscurf.com
 0.0.0.0 live.lavoixdux.com
 0.0.0.0 b.law.com
 0.0.0.0 engine.laweekly.com
@@ -67402,6 +67417,8 @@
 0.0.0.0 www.lemmatechnologies.com
 0.0.0.0 lemonads.com
 0.0.0.0 branchtrk.lendingtree.com
+0.0.0.0 qfoiss.lendingtree.com
+0.0.0.0 analytics.lendio.com
 0.0.0.0 lendumowers.com
 0.0.0.0 dd.lendup.com
 0.0.0.0 cdn.lenmit.com
@@ -67641,6 +67658,7 @@
 0.0.0.0 ns1.lighthost.com
 0.0.0.0 somniture.lightingdirect.com
 0.0.0.0 tracking.lightingdirect.com
+0.0.0.0 fkdaik.lightinthebox.com
 0.0.0.0 connect.lightriver.com
 0.0.0.0 somni.lightstream.com
 0.0.0.0 liivecams.com
@@ -67997,6 +68015,7 @@
 0.0.0.0 tk.lulli-sur-la-toile.com
 0.0.0.0 metrics.lululemon.com
 0.0.0.0 smetrics.lululemon.com
+0.0.0.0 ijhlca.lulus.com
 0.0.0.0 www.luminate.com
 0.0.0.0 mdws.luminusfinancial.com
 0.0.0.0 backup.lumion3d.com
@@ -70681,12 +70700,12 @@
 0.0.0.0 lpbhnv.nbcbayarea.com
 0.0.0.0 lpbhnv.nbclosangeles.com
 0.0.0.0 aamt.nbcnews.com
-0.0.0.0 lpbhnv.nbcnewyork.com
 0.0.0.0 scrooge.nbcsandiego.com
 0.0.0.0 nbcsearch.com
 0.0.0.0 www.nbcsearch.com
 0.0.0.0 xml.nbcsearch.com
 0.0.0.0 xml2.nbcsearch.com
+0.0.0.0 ijaabm.nbcsports.com
 0.0.0.0 lpbhnv.nbcwashington.com
 0.0.0.0 nblock1.com
 0.0.0.0 ext.apbox.nbp-corp.com
@@ -71389,6 +71408,7 @@
 0.0.0.0 piwik.onatcer.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 onaugan.com
+0.0.0.0 cjcqls.onbuy.com
 0.0.0.0 oncavst.com
 0.0.0.0 onclarck.com
 0.0.0.0 go.onclasrv.com
@@ -72394,6 +72414,7 @@
 0.0.0.0 pornstars-home.com
 0.0.0.0 www.pornstars-home.com
 0.0.0.0 porntagged.com
+0.0.0.0 jucy.porntry.com
 0.0.0.0 cdn1b.adspace.porntube.com
 0.0.0.0 tkn.porntube.com
 0.0.0.0 porntubemate.com
@@ -73078,6 +73099,7 @@
 0.0.0.0 saa.rachaelrayshow.com
 0.0.0.0 smetrics.rackroomshoes.com
 0.0.0.0 rack-media.com
+0.0.0.0 hcjpbc.radaronline.com
 0.0.0.0 ads.radialserver.com
 0.0.0.0 radiate.com
 0.0.0.0 ea.radiateurplus.com
@@ -73434,6 +73456,7 @@
 0.0.0.0 images.revmob.com
 0.0.0.0 img.revmob.com
 0.0.0.0 revoke-dashboard.com
+0.0.0.0 onghfx.revolve.com
 0.0.0.0 jc.revolvermaps.com
 0.0.0.0 jd.revolvermaps.com
 0.0.0.0 jf.revolvermaps.com
@@ -75021,6 +75044,7 @@
 0.0.0.0 sortable.com
 0.0.0.0 sorucall.com
 0.0.0.0 sostubsee.com
+0.0.0.0 lqvfkk.sosyopix.com
 0.0.0.0 metrics.sothebys.com
 0.0.0.0 www.soua.com
 0.0.0.0 analytics.souazi.com
@@ -76444,6 +76468,7 @@
 0.0.0.0 ape-asset-tag.timeinc.com
 0.0.0.0 smetrics.timeinc.com
 0.0.0.0 smetrics.timeout.com
+0.0.0.0 ugdcxl.timeout.com
 0.0.0.0 ads.timesdaily.com
 0.0.0.0 ads.timesunion.com
 0.0.0.0 timteen.com
@@ -78533,6 +78558,7 @@
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 www.webtrendslive.com
 0.0.0.0 webtv-sexe.com
+0.0.0.0 kabokc.webuy.com
 0.0.0.0 adv.webvariant.com
 0.0.0.0 appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.webvisor.com
@@ -78712,7 +78738,6 @@
 0.0.0.0 smetrics.windowgenie.com
 0.0.0.0 sdc.windowsmarketplace.com
 0.0.0.0 www.windows-cannot-find.com
-0.0.0.0 ygopvz.windsorstore.com
 0.0.0.0 bold.windstreamwholesale.com
 0.0.0.0 banner-server.winecountry.com
 0.0.0.0 visitors.winecountrygiftbaskets.com
@@ -79153,6 +79178,7 @@
 0.0.0.0 track.msadcenter.xxx.com
 0.0.0.0 xxxblackbook.com
 0.0.0.0 pod.xxxconnect.com
+0.0.0.0 xxxivjmp.com
 0.0.0.0 go.xxxjmp.com
 0.0.0.0 xxxmatch.com
 0.0.0.0 ca.xxxshame.com
@@ -79546,6 +79572,7 @@
 0.0.0.0 gotoaws.zaful.com
 0.0.0.0 zagtertda.com
 0.0.0.0 smetrics.zales.com
+0.0.0.0 smetrics.zalesoutlet.com
 0.0.0.0 ox-i.zam.com
 0.0.0.0 s.zampdsp.com
 0.0.0.0 www.zamplus.com
@@ -80330,6 +80357,7 @@
 0.0.0.0 www.generaltracking.de
 0.0.0.0 plau.germantechjobs.de
 0.0.0.0 partner.gewinnspiele.de
+0.0.0.0 jdgtgb.giga.de
 0.0.0.0 wrapper.giga.de
 0.0.0.0 go.giga-abs.de
 0.0.0.0 adserve.gkeurope.de
@@ -84783,6 +84811,7 @@
 0.0.0.0 click-eu.pclk.name
 0.0.0.0 2537.plainwrk.name
 0.0.0.0 rapeporn.name
+0.0.0.0 realsrv.name
 0.0.0.0 21647.shacsda.name
 0.0.0.0 plausible.strzibny.name
 0.0.0.0 adservice.google.ne
@@ -85972,6 +86001,7 @@
 0.0.0.0 d145tbca0156xf.cloudfront.net
 0.0.0.0 d14nx4uiqzwnqt.cloudfront.net
 0.0.0.0 d14qd3he45186l.cloudfront.net
+0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d15r06k2ko210l.cloudfront.net
 0.0.0.0 d173vqb05g6hza.cloudfront.net
 0.0.0.0 d19byj6yasb718.cloudfront.net
@@ -86101,6 +86131,7 @@
 0.0.0.0 dfusijiqfinqr.cloudfront.net
 0.0.0.0 dgxwdt4z5fqs6.cloudfront.net
 0.0.0.0 dhpikd1t89arn.cloudfront.net
+0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 diodxcszlbmwk.cloudfront.net
 0.0.0.0 diqdel92t4na6.cloudfront.net
 0.0.0.0 disutgh7q0ncc.cloudfront.net
@@ -90110,7 +90141,6 @@
 0.0.0.0 www.usenet.nl
 0.0.0.0 adverteren.vakmedianet.nl
 0.0.0.0 vgo.vegaoo.nl
-0.0.0.0 sorxyx.vi.nl
 0.0.0.0 adtracking.vinden.nl
 0.0.0.0 vnl1.voyage-prive.nl
 0.0.0.0 tools.vpscash.nl
@@ -92704,6 +92734,7 @@
 0.0.0.0 sync.teads.tv
 0.0.0.0 t.teads.tv
 0.0.0.0 torcidatricolor.tv
+0.0.0.0 b1.tubexo.tv
 0.0.0.0 tutoads.tv
 0.0.0.0 cdn.tutoads.tv
 0.0.0.0 get.tutoads.tv
@@ -93220,7 +93251,6 @@
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 blackqpid.org.uk
 0.0.0.0 mediaathay.org.uk
-0.0.0.0 smetrics.nationaltrust.org.uk
 0.0.0.0 smetrics.oxfam.org.uk
 0.0.0.0 smetrics.savethechildren.org.uk
 0.0.0.0 stats.toiletmap.org.uk
@@ -93471,6 +93501,7 @@
 0.0.0.0 xads.codon.vn
 0.0.0.0 engage.3m.com.vn
 0.0.0.0 www.adt.com.vn
+0.0.0.0 ctyjsf.cellphones.com.vn
 0.0.0.0 smetrics.citibank.com.vn
 0.0.0.0 mautic.itnavi.com.vn
 0.0.0.0 api.subiz.com.vn
