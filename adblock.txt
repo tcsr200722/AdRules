@@ -6,8 +6,8 @@
 ! Expires: 12 Hours
 ! Description: 该规则合并自My AdFilters（for PC），EdentwCustom，adgk，Adaway，Uniartisan，规则以及乘风规则等
 ! Version: Sat 12/25/2021
-! Last modified: Sat 12/25/2021T10:14:03.31Z
-! Total count: 136910
+! Last modified: Sat 12/25/2021T22:12:44.36Z
+! Total count: 136924
 
 
 ###A9AdsMiddleBoxTop
@@ -19146,6 +19146,7 @@
 ##.mainadWrapper
 ##.mainadbox
 ##.mal-ad-unit
+##.mal-koukoku-unit
 ##.mango_ads
 ##.mantis-ad
 ##.mantis__recommended__item--external
@@ -45061,6 +45062,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||hostuje.net/show_ads.js$script,domain=hostuje.net
 @@||hotmail.com/mail/*/i2a.js
 @@||hotstar.com/vs/getad.php$domain=hotstar.com
+@@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||hotwirestatic.com^*/opinionLab.js$domain=hotwire.com
 @@||how2play.pl/wp-content/themes/htp/js/vendor/adblock.js$script
 @@||howtogeek.com/adframe.js$subdocument
@@ -46452,7 +46454,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com
 @@||s-sfr.fr/stats/header.js$script,domain=red-by-sfr.fr|sfr.fr
 @@||s.btstatic.com/tag.js$domain=sephora.com
-@@||s.click.taobao.com^$third-party,popup
+@@||s.click.taobao.com^$popup
 @@||s.clickiocdn.com/t/*.js$domain=laleggepertutti.it
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su
 @@||s.go-mpulse.net/boomerang/$domain=royalmail.com
@@ -59998,6 +60000,7 @@ qinghe.me###banner300-top-right,#head-banner468
 qingkan520.com##[src^="http://imgcdn.mazaibang.com"]
 qingse.one###ads1
 qingshu.so##.inbannerad
+qingwk.com##.c-footer-banner
 qingwk.com##.c-meiqia-Air
 qingwk.com##.c-meiqia-wrapper
 qingwk.com##.l-index-activity-entrance
@@ -60061,6 +60064,10 @@ qq.com###qqadv
 qq.com###qqmail_AD_container
 qq.com###r_ad
 qq.com##+js(json-prune, ad)
+qq.com##+js(json-prune,ad,vinfo)
+qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+qq.com##+js(no-fetch-if, /\b(b?trace|beacon)\./)
+qq.com##+js(no-xhr-if, /\b(b?trace|beacon)\./)
 qq.com##.AdBox-Article-QQ
 qq.com##.AdTop-Article-QQ
 qq.com##.J_hot_game
@@ -63042,10 +63049,6 @@ v.qq.com##a[href*="amway.com.cn"]
 v.qq.com##div.pop_ads_wide,div#QQlive_SP_RM.l_qq_com,DIV[class^="mod_ads mod_ads_main_"],iframe[src="http://games.qq.com/playgame/videoweb/videoweb.htm"],div[class^="mod_float_"],div.mod_ad,div.site_bg.site_bg_variety,.player_bg_ad,.top_banner,.mod_ads_play,#jimu-module-10,#jimu-module-11,.tvp_open_btns,[class^="txp_ad_"],.txp_ad,.figures_ad
 v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, RTCPeerConnection, undefined)
 v.qq.com,huya.com,dandanzan.top,nunuyy.*##+js(set, webkitRTCPeerConnection, undefined)
-v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-v.qq.com,sports.qq.com,new.qq.com##+js(json-prune,ad,vinfo)
-v.qq.com,sports.qq.com,new.qq.com##+js(no-fetch-if, /\b(b?trace|beacon)\./)
-v.qq.com,sports.qq.com,new.qq.com##+js(no-xhr-if, /\b(b?trace|beacon)\./)
 v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-index"]
 v.shensgo.com##brde[id][style*="height"]
 v.sogou.com##[uigs^="adv_pc_adv"]
@@ -64174,6 +64177,7 @@ www.ranwen.org##div.ads,div.con_ad
 www.raybt.com##td[width="13"]
 www.redhongan.com##td[height="80"],img[width="940"][height="50"]
 www.remenxs.com##ins.adsbygoogle,div.top_ad
+www.rjno1.com##body > *:nth-child(-n+5)
 www.rkanr.com##div[id^="rkrCp"]
 www.rmdown.com##IMG[src*='cbu01.alicdn.com']
 www.rmdown.com##IMG[src*='dioimg.net']
@@ -64888,6 +64892,9 @@ yicai.com##.gg_loadpage
 yicai.com##.gg_pop
 yicai.com##.gg_preview
 yicai.com##div.ad68570,div.ad257
+yiche.com##.ad
+yiche.com##div[class*="-adv"]
+yiche.com##div[class*="words-ad"]
 yicheshi.com##.ad_w
 yidianzixun.com##.ad-wrapper
 yidianzixun.com##.layer-download
@@ -65209,6 +65216,7 @@ zdface.com##DIV#msg_win,DIV#laiyuan_div + SPAN,DIV[id^="div-gpt-ad-"],div.newsig
 zdface.com#@#.top-ad
 zdfans.com##.btn + .btn
 zdfans.com##.btn11 + .btn11
+zdfans.com##.btn11[onclick]
 zdfans.com##[href*="register?"]
 zdfans.com##a[href^="http://js.50bang.org/?formType="],A[href="http://www.kiees.com/"],div.db_post,.adsbygoogle,[id^="tanxmobile-outer-conmm"],[href="http://www.focusky.com.cn/help-245.html"],iframe[width="300"][height="250"]
 zdfans.com##ul[id^="gaosuxiazai"]
@@ -90997,6 +91005,7 @@ zznews.cn##.ad:not([style])
 ||fourthug.com^
 ||fout.jp^
 ||fout.jp^$third-party
+||fowft.cn^
 ||fowink.com^
 ||fowl.saulhardman.com^
 ||fowpq.top^$third-party
@@ -93897,6 +93906,7 @@ zznews.cn##.ad:not([style])
 ||gus.host^$third-party
 ||gusfinishedsue.com^
 ||gushifanyi.com^$third-party
+||gushiwen.cn/getTicket.aspx^$xhr
 ||gushiwen.org/getTicket.aspx
 ||gussame.com^
 ||gutefrage.net/px.js
@@ -100116,6 +100126,7 @@ zznews.cn##.ad:not([style])
 ||keywordstrategy.org^$third-party
 ||keyxel.com^$third-party
 ||keyyou.net^
+||kf.qingwk.com^
 ||kf3msfm.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfd3sm2c.com^
@@ -118286,6 +118297,7 @@ zznews.cn##.ad:not([style])
 ||seo.tkc110.jp^
 ||seoab.io^
 ||seoab.io^$third-party
+||seobeginners.wiki^
 ||seogift.ru^$third-party
 ||seojiaoshi.cn/banner/
 ||seomonitor.ro^$third-party
@@ -133380,6 +133392,7 @@ zznews.cn##.ad:not([style])
 ||www.rep0pkgr.com^
 ||www.req12pkgb.com^
 ||www.rime8lope.com^
+||www.rjno1.com^$inline-script
 ||www.roar9beer.com^
 ||www.rock5rice.com^
 ||www.rote8mino.com^
@@ -135207,6 +135220,7 @@ zznews.cn##.ad:not([style])
 ||ykrssqaufg.com^
 ||yktang8.com^*.gif
 ||yktj.yzz.cn^
+||ykwh.store^
 ||ykxipfcg.com^
 ||ykxwn.com^
 ||yl-zipper.com^
