@@ -3,9 +3,9 @@
 # Powerd by CatsTeam
 # Expires: 12 Hours
 # 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等
-# Version: Sat 12/25/2021
-# Last modified: Sat 12/25/2021T22:12:50.31Z
-# Total count: 93913
+# Version: Sun 12/26/2021
+# Last modified: Sun 12/26/2021T10:14:14.15Z
+# Total count: 93869
 0.0.0.0 super-ladies-now.life
 0.0.0.0 evealm.com
 0.0.0.0 fruine.com
@@ -52249,7 +52249,6 @@
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cuoituoitrevn.matomo.cloud
 0.0.0.0 oxiivn.matomo.cloud
-0.0.0.0 minchikeji.cloud
 0.0.0.0 js.mulan.cloud
 0.0.0.0 pre.102porno.club
 0.0.0.0 vodpic.320down.club
@@ -52268,7 +52267,6 @@
 0.0.0.0 ngp1.intnotif.club
 0.0.0.0 cdn.itphanpytor.club
 0.0.0.0 cdn.itskiddoan.club
-0.0.0.0 joyceglobal.club
 0.0.0.0 a.kagiti.club
 0.0.0.0 a.katomu.club
 0.0.0.0 loadingpagesson.club
@@ -52327,7 +52325,6 @@
 0.0.0.0 tracking.v.tf.360.cn
 0.0.0.0 dl.37wan.cn
 0.0.0.0 image.37wan.cn
-0.0.0.0 86695755.cn
 0.0.0.0 new.915yzt.cn
 0.0.0.0 bj14.9669.cn
 0.0.0.0 bs14.9669.cn
@@ -52611,7 +52608,6 @@
 0.0.0.0 flash.cn
 0.0.0.0 www.flash.cn
 0.0.0.0 pv.focus.cn
-0.0.0.0 fowft.cn
 0.0.0.0 fp.fraudmetrix.cn
 0.0.0.0 fptest.fraudmetrix.cn
 0.0.0.0 static.fraudmetrix.cn
@@ -52671,7 +52667,6 @@
 0.0.0.0 sdk.im.jiguang.cn
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 sdk.verification.jiguang.cn
-0.0.0.0 jogbxpg.cn
 0.0.0.0 api.jpush.cn
 0.0.0.0 config.jpush.cn
 0.0.0.0 config-junion.jpush.cn
@@ -52744,7 +52739,6 @@
 0.0.0.0 s.ninebox.cn
 0.0.0.0 screenshot.ninebox.cn
 0.0.0.0 up.ninebox.cn
-0.0.0.0 nnocsin.cn
 0.0.0.0 ntfsformac.cn
 0.0.0.0 www.ntfsformac.cn
 0.0.0.0 iflyad.bj.openstorage.cn
@@ -52769,7 +52763,6 @@
 0.0.0.0 asimgs.pplive.cn
 0.0.0.0 pro.cn
 0.0.0.0 js.ptengine.cn
-0.0.0.0 pvgzoqc.cn
 0.0.0.0 qchannel01.cn
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 b.qchannel03.cn
@@ -52785,7 +52778,6 @@
 0.0.0.0 metrics.rolex.cn
 0.0.0.0 j.s11.cn
 0.0.0.0 404.safedog.cn
-0.0.0.0 sbqsftz.cn
 0.0.0.0 static.sensorsdata.cn
 0.0.0.0 adt.shuzilm.cn
 0.0.0.0 api.shuzilm.cn
@@ -52809,7 +52801,6 @@
 0.0.0.0 newspush.sinajs.cn
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 sitesite.cn
-0.0.0.0 skmtyaw.cn
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.snmi.cn
@@ -52867,7 +52858,6 @@
 0.0.0.0 v.vlion.cn
 0.0.0.0 imsapi.vnet.cn
 0.0.0.0 zzhc.vnet.cn
-0.0.0.0 vnyqn.cn
 0.0.0.0 ads.voiceads.cn
 0.0.0.0 ai.voiceads.cn
 0.0.0.0 api.voiceads.cn
@@ -52877,7 +52867,6 @@
 0.0.0.0 post1.voiceads.cn
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 sdk.voiceads.cn
-0.0.0.0 wangchuijun.cn
 0.0.0.0 ads.waps.cn
 0.0.0.0 app.waps.cn
 0.0.0.0 wapx.cn
@@ -52887,7 +52876,6 @@
 0.0.0.0 wilf.cn
 0.0.0.0 wodeai.cn
 0.0.0.0 j.credit.wwz114.cn
-0.0.0.0 xhfya.cn
 0.0.0.0 api.xiaohuxi.cn
 0.0.0.0 tongji.xinmin.cn
 0.0.0.0 www2.xinmin.cn
@@ -52897,7 +52885,6 @@
 0.0.0.0 tuiguang.yicha.cn
 0.0.0.0 img-cdn-spot.ymcdn.cn
 0.0.0.0 d.youth.cn
-0.0.0.0 yuegepiano.cn
 0.0.0.0 cf.zaiyunli.cn
 0.0.0.0 zhidian3g.cn
 0.0.0.0 a.zhidian3g.cn
@@ -53565,7 +53552,6 @@
 0.0.0.0 www.77tracking.com
 0.0.0.0 787787.com
 0.0.0.0 789club.com
-0.0.0.0 7995238c64.com
 0.0.0.0 7art-screensavers.com
 0.0.0.0 www.7art-screensavers.com
 0.0.0.0 www.7bpeople.com
@@ -53633,7 +53619,6 @@
 0.0.0.0 cdn.a9377j.com
 0.0.0.0 metrics.aa.com
 0.0.0.0 smetrics.aa.com
-0.0.0.0 aa9aa8ae44.com
 0.0.0.0 acemetrics.aaa.com
 0.0.0.0 metrics.cluballiance.aaa.com
 0.0.0.0 smetrics.cluballiance.aaa.com
@@ -56675,7 +56660,6 @@
 0.0.0.0 atlas.r.akipam.com
 0.0.0.0 push.akket.com
 0.0.0.0 b.aklamio.com
-0.0.0.0 akmhw.com
 0.0.0.0 akmnetwork.com
 0.0.0.0 metrics.al.com
 0.0.0.0 al4a.com
@@ -58101,7 +58085,6 @@
 0.0.0.0 banalbjar.com
 0.0.0.0 smetrics.banamex.com
 0.0.0.0 banana-splash.com
-0.0.0.0 banbf.com
 0.0.0.0 banbw.com
 0.0.0.0 newsletters.bancsabadell.com
 0.0.0.0 banfd.com
@@ -58154,8 +58137,6 @@
 0.0.0.0 bannerware.com
 0.0.0.0 smetrics.banter.com
 0.0.0.0 bantercubicle.com
-0.0.0.0 banxc.com
-0.0.0.0 banzf.com
 0.0.0.0 active.baofeng.com
 0.0.0.0 midinfo.baofeng.com
 0.0.0.0 area.baomihua.com
@@ -61898,7 +61879,6 @@
 0.0.0.0 webshotcdn.dynamicyield.com
 0.0.0.0 bf20578xco.bf.dynatrace.com
 0.0.0.0 js-cdn.dynatrace.com
-0.0.0.0 dynpuqtsjpgqjv.com
 0.0.0.0 main.dynsrvbaa.com
 0.0.0.0 syndication.dynsrvtbg.com
 0.0.0.0 loginwebmailnic.dynssl.com
@@ -65937,6 +65917,7 @@
 0.0.0.0 adserver.infotiger.com
 0.0.0.0 marketing.info-trek.com
 0.0.0.0 www.infra-gtc.com
+0.0.0.0 infuriateharder.com
 0.0.0.0 stats.infzm.com
 0.0.0.0 x.infzm.com
 0.0.0.0 events.ingatlan.com
@@ -68466,7 +68447,6 @@
 0.0.0.0 www.mdotlabs.com
 0.0.0.0 s2.mdpcdn.com
 0.0.0.0 track.mdsmatch.com
-0.0.0.0 connect.mdtelephone.com
 0.0.0.0 cmp.md-nx.com
 0.0.0.0 www.me1294hlx.com
 0.0.0.0 meagplin.com
@@ -68879,7 +68859,6 @@
 0.0.0.0 telecommand.df.telemetry.microsoft.com
 0.0.0.0 watson.df.telemetry.microsoft.com
 0.0.0.0 microsoft-cnd.com
-0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 microsoft-home-en.com
 0.0.0.0 microsoft-online-en-us.com
 0.0.0.0 microticker.com
@@ -73198,7 +73177,6 @@
 0.0.0.0 rbxtrk.com
 0.0.0.0 rb-net.com
 0.0.0.0 www.rb-net.com
-0.0.0.0 rccsekuitas.com
 0.0.0.0 info.rcgt.com
 0.0.0.0 smetrics.rci.com
 0.0.0.0 go.rcvlinks.com
@@ -75286,7 +75264,6 @@
 0.0.0.0 www.srvtrkxx2.com
 0.0.0.0 srwww1.com
 0.0.0.0 tracking.ssab.com
-0.0.0.0 ssbyysdaj.com
 0.0.0.0 stats.ssdnodes.com
 0.0.0.0 dwbotr.ssg.com
 0.0.0.0 auto.ssglog.com
@@ -79324,7 +79301,6 @@
 0.0.0.0 ybrantdigital.com
 0.0.0.0 webtrends.yccdn.com
 0.0.0.0 mzhuzu.ycmc.com
-0.0.0.0 ycych.com
 0.0.0.0 www.ydwsjt-2.com
 0.0.0.0 yeadudelude.com
 0.0.0.0 yeah.com
@@ -81085,7 +81061,6 @@
 0.0.0.0 net.jumia.com.eg
 0.0.0.0 metrics.vodafone.com.eg
 0.0.0.0 digitaldoughnut.email
-0.0.0.0 furongcloud.email
 0.0.0.0 gml.email
 0.0.0.0 links.ab.soul-cycle.email
 0.0.0.0 ads.20m.es
@@ -82277,7 +82252,6 @@
 0.0.0.0 adserver.x3.hu
 0.0.0.0 ad.zodera.hu
 0.0.0.0 dii2.zooplus.hu
-0.0.0.0 dashuaibi.icu
 0.0.0.0 fortran.icu
 0.0.0.0 ad.responservbzh.icu
 0.0.0.0 ad.responservflde.icu
@@ -82585,7 +82559,6 @@
 0.0.0.0 kidsinsandbox.info
 0.0.0.0 www.kidsinsandbox.info
 0.0.0.0 kutib-lilajhiza.info
-0.0.0.0 get24update.link4all.info
 0.0.0.0 log.liusha.info
 0.0.0.0 statistics.liusha.info
 0.0.0.0 template.liusha.info
@@ -82698,8 +82671,6 @@
 0.0.0.0 m.xrum.info
 0.0.0.0 xmen2.xtraman.info
 0.0.0.0 m.x-power.info
-0.0.0.0 biwo.ink
-0.0.0.0 lilith.ink
 0.0.0.0 ncore.ink
 0.0.0.0 analytics.winter.ink
 0.0.0.0 tr.emailing.coe.int
@@ -83163,6 +83134,7 @@
 0.0.0.0 t.o-s.io
 0.0.0.0 x.o-s.io
 0.0.0.0 stats.pandasnap.io
+0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-va.pangle.io
 0.0.0.0 api16-endcard-pack-sg.pangle.io
@@ -84429,7 +84401,6 @@
 0.0.0.0 inte.la
 0.0.0.0 elqtrk.intel.la
 0.0.0.0 www91.intel.la
-0.0.0.0 highway2.soom.la
 0.0.0.0 link.design.unum.la
 0.0.0.0 link.hello.unum.la
 0.0.0.0 adservice.google.com.lb
@@ -84459,7 +84430,6 @@
 0.0.0.0 qwertize.link
 0.0.0.0 stats.share.link
 0.0.0.0 traffic-bam.link
-0.0.0.0 wangyasen.link
 0.0.0.0 click.wct.link
 0.0.0.0 www.wct.link
 0.0.0.0 a.zog.link
@@ -84622,7 +84592,6 @@
 0.0.0.0 stat-ssl.idou.me
 0.0.0.0 ig.me
 0.0.0.0 adv-op2.joygames.me
-0.0.0.0 jscvalves.me
 0.0.0.0 juicyads.me
 0.0.0.0 stats.keyscore.me
 0.0.0.0 kiip.me
@@ -84783,7 +84752,6 @@
 0.0.0.0 lp.mydas.mobi
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
-0.0.0.0 nmykf.mobi
 0.0.0.0 ads.oneway.mobi
 0.0.0.0 ads.ontarget.mobi
 0.0.0.0 poweredbyliquidfire.mobi
@@ -88385,8 +88353,6 @@
 0.0.0.0 postmedia.hb.omtrdc.net
 0.0.0.0 stanfordhealthcare.hb.omtrdc.net
 0.0.0.0 vice.hb.omtrdc.net
-0.0.0.0 yleisradio.hb.omtrdc.net
-0.0.0.0 discovery.hb-api.omtrdc.net
 0.0.0.0 ns11.omtrdc.net
 0.0.0.0 ns12.omtrdc.net
 0.0.0.0 gapcanada.ca.ssl.d1.sc.omtrdc.net
@@ -91446,7 +91412,6 @@
 0.0.0.0 ceviz.pw
 0.0.0.0 asq.d6shiiwz.pw
 0.0.0.0 flashx.pw
-0.0.0.0 jiazhenghangye.pw
 0.0.0.0 ltk.pw
 0.0.0.0 magescripts.pw
 0.0.0.0 myforex.pw
@@ -92321,6 +92286,7 @@
 0.0.0.0 sw.wpu.sh
 0.0.0.0 tw.wpu.sh
 0.0.0.0 smetrics.zalando.sh
+0.0.0.0 pokemoney.shop
 0.0.0.0 stats.chapterist.show
 0.0.0.0 ads.24ur.si
 0.0.0.0 8000plus.si
@@ -92350,7 +92316,6 @@
 0.0.0.0 fortnitechat.site
 0.0.0.0 frap.frap.site
 0.0.0.0 a.green-good-nice.site
-0.0.0.0 hbyjrspyxgs.site
 0.0.0.0 www.hoexoxg.site
 0.0.0.0 hostnetadv.site
 0.0.0.0 huezzcjskf.site
@@ -92427,7 +92392,6 @@
 0.0.0.0 adebis.juku.st
 0.0.0.0 adebis02.juku.st
 0.0.0.0 ads.shorte.st
-0.0.0.0 aiyou.store
 0.0.0.0 a8clk.bstyle.store
 0.0.0.0 stats.digiexpert.store
 0.0.0.0 rtb-adsterra.flshtrk.store
@@ -92435,7 +92399,6 @@
 0.0.0.0 tok.vaicore.store
 0.0.0.0 cdn.viadata.store
 0.0.0.0 logs.viadata.store
-0.0.0.0 ykwh.store
 0.0.0.0 www.freecontent.stream
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 siteonline.stream
@@ -92506,7 +92469,6 @@
 0.0.0.0 t.ingage.tech
 0.0.0.0 uet.ingage.tech
 0.0.0.0 elqtrk.insight.tech
-0.0.0.0 jxzz.tech
 0.0.0.0 s.mannes.tech
 0.0.0.0 nanogardens.tech
 0.0.0.0 propellerads.tech
@@ -92602,9 +92564,7 @@
 0.0.0.0 www.danweijungu5812.top
 0.0.0.0 freememes.desiceleb.top
 0.0.0.0 dolodos.top
-0.0.0.0 eovpxhvi.top
 0.0.0.0 cdn.everylead.top
-0.0.0.0 exiqukhftrlocq.top
 0.0.0.0 firrectly.top
 0.0.0.0 fshanys-vip.top
 0.0.0.0 rte.fuoo1.top
@@ -92621,7 +92581,6 @@
 0.0.0.0 khaek.top
 0.0.0.0 cn.lakdc.top
 0.0.0.0 lqiusbnfmy.top
-0.0.0.0 mctptlrumhi.top
 0.0.0.0 menanglevalley.top
 0.0.0.0 www.mkjshusgus5481.top
 0.0.0.0 njmeldkr.top
@@ -92639,14 +92598,11 @@
 0.0.0.0 www.taisi666.top
 0.0.0.0 taiv8.top
 0.0.0.0 tjsqb.top
-0.0.0.0 ttffhe.top
 0.0.0.0 uhomsiofpcu.top
-0.0.0.0 uosxberyg.top
 0.0.0.0 vtoras.top
 0.0.0.0 vvw.wxbgf.top
 0.0.0.0 www.wxbgf.top
 0.0.0.0 youyouf.top
-0.0.0.0 ypjiavvxy.top
 0.0.0.0 engage.3m.com.tr
 0.0.0.0 tpjehb.addax.com.tr
 0.0.0.0 adklik.com.tr
@@ -93767,7 +93723,6 @@
 0.0.0.0 hookhub.webcam
 0.0.0.0 multifbpixels.website
 0.0.0.0 stats.thelion.website
-0.0.0.0 seobeginners.wiki
 0.0.0.0 apdrive.win
 0.0.0.0 www.apdrive.win
 0.0.0.0 bitcoiner.win
@@ -93861,7 +93816,6 @@
 0.0.0.0 cz75pw.kl0ru78.xyz
 0.0.0.0 www.letstry69.xyz
 0.0.0.0 likn.xyz
-0.0.0.0 lpwx.xyz
 0.0.0.0 megafiles.xyz
 0.0.0.0 analytics.mkini.xyz
 0.0.0.0 go1.mobrain.xyz
@@ -93885,6 +93839,7 @@
 0.0.0.0 universalphotography.xyz
 0.0.0.0 vaicore.xyz
 0.0.0.0 vip-hd-movies.xyz
+0.0.0.0 ad-display.wikawika.xyz
 0.0.0.0 netu.wiztube.xyz
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 xcamz.xyz
@@ -93893,6 +93848,7 @@
 0.0.0.0 script.yomeno.xyz
 0.0.0.0 vast.yomeno.xyz
 0.0.0.0 www.yomeno.xyz
+0.0.0.0 ziwyduke.xyz
 0.0.0.0 stats.absol.co.za
 0.0.0.0 www.absolstats.co.za
 0.0.0.0 advert.ananzi.co.za
