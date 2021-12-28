@@ -3,9 +3,9 @@
 # Powerd by CatsTeam
 # Expires: 12 Hours
 # 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等
-# Version: Mon 12/27/2021
-# Last modified: Mon 12/27/2021T22:13:35.21Z
-# Total count: 94109
+# Version: Tue 12/28/2021
+# Last modified: Tue 12/28/2021T10:15:17.53Z
+# Total count: 94090
 0.0.0.0 978ea72276.com
 0.0.0.0 basnn15.com
 0.0.0.0 ziwyduke.xyz
@@ -53570,7 +53570,6 @@
 0.0.0.0 vid.24ur.com
 0.0.0.0 24-7clinic.com
 0.0.0.0 net.24-ads.com
-0.0.0.0 marketing.net.24-ads.com
 0.0.0.0 t.254a.com
 0.0.0.0 jhhkl.25ku.com
 0.0.0.0 zxgghn.25ku.com
@@ -53936,7 +53935,6 @@
 0.0.0.0 abtyroguer.com
 0.0.0.0 ad.abum.com
 0.0.0.0 abyamaskor.com
-0.0.0.0 cb-telemetry.academicmerit.com
 0.0.0.0 info.academynet.com
 0.0.0.0 stats.acadevor.com
 0.0.0.0 metrics.acbj.com
@@ -55454,7 +55452,6 @@
 0.0.0.0 otf-cache1.adperfect.com
 0.0.0.0 click.adperium.com
 0.0.0.0 ssp.adpies.com
-0.0.0.0 img.adplan-ds.com
 0.0.0.0 adplexity.com
 0.0.0.0 cdn.adplugg.com
 0.0.0.0 www.adplugg.com
@@ -57604,7 +57601,6 @@
 0.0.0.0 www.apponic.com
 0.0.0.0 ads.appota.com
 0.0.0.0 api.appota.com
-0.0.0.0 api.appoxee.com
 0.0.0.0 saas.appoxee.com
 0.0.0.0 go2.appross.com
 0.0.0.0 go3.appross.com
@@ -67884,9 +67880,7 @@
 0.0.0.0 rp4.liadm.com
 0.0.0.0 c.lianwangtech.com
 0.0.0.0 c1.lianwangtech.com
-0.0.0.0 marketing.libertyhomeequity.com
 0.0.0.0 smetrics.libertymutual.com
-0.0.0.0 marketing.libertyreverse.com
 0.0.0.0 a.libertystmedia.com
 0.0.0.0 i.libertystmedia.com
 0.0.0.0 analytics.lichtstark.com
@@ -70560,7 +70554,6 @@
 0.0.0.0 mozime.com
 0.0.0.0 w1.mozzi.com
 0.0.0.0 www.mp3downloadhq.com
-0.0.0.0 www.mp3helpdesk.com
 0.0.0.0 www.mp3search.com
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 pixels.mparticle.com
@@ -71600,7 +71593,6 @@
 0.0.0.0 server.olliehorn.com
 0.0.0.0 olmeramarketing.com
 0.0.0.0 tracking.olx.com
-0.0.0.0 affiliate.olymptrade.com
 0.0.0.0 tvguru-lp.olympuswaymarketing.com
 0.0.0.0 ads.omaha.com
 0.0.0.0 omanala.com
@@ -78897,7 +78889,6 @@
 0.0.0.0 welovebeauty.com
 0.0.0.0 rnffgv.wemakeprice.com
 0.0.0.0 wendise.com
-0.0.0.0 pixel.wenxuecity.com
 0.0.0.0 www.wenxuemi6.com
 0.0.0.0 ads.weownthetraffic.com
 0.0.0.0 www.weownthetraffic.com
@@ -79681,7 +79672,6 @@
 0.0.0.0 yijifen.com
 0.0.0.0 www.yiluup.com
 0.0.0.0 edgecast-vod.yimg.com
-0.0.0.0 us.yimg.com
 0.0.0.0 yinhana.com
 0.0.0.0 yipdankglib.com
 0.0.0.0 image.yiqifa.com
@@ -80698,7 +80688,6 @@
 0.0.0.0 csr21.net.home24.de
 0.0.0.0 csr31.net.home24.de
 0.0.0.0 csr41.net.home24.de
-0.0.0.0 marketing.net.home24.de
 0.0.0.0 om.homelidays.de
 0.0.0.0 da.hornbach.de
 0.0.0.0 affiliate.hosteurope.de
@@ -83716,7 +83705,6 @@
 0.0.0.0 metrics.egencia.it
 0.0.0.0 ed.emp-online.it
 0.0.0.0 kpphqv.emp-online.it
-0.0.0.0 smetrics.enelenergia.it
 0.0.0.0 web.news.eprice.it
 0.0.0.0 smetrics.eprice.it
 0.0.0.0 dcs.espritshop.it
@@ -83908,7 +83896,6 @@
 0.0.0.0 ad.adresult.jp
 0.0.0.0 j.bg.adresult-sp.jp
 0.0.0.0 ads-i2i.jp
-0.0.0.0 ds.advg.jp
 0.0.0.0 ad-cloud.jp
 0.0.0.0 www.ad-cloud.jp
 0.0.0.0 ad.afad.jp
@@ -84574,7 +84561,6 @@
 0.0.0.0 nscreen.neoebiz.co.kr
 0.0.0.0 connect.netapp.co.kr
 0.0.0.0 neon.netinsight.co.kr
-0.0.0.0 ad.xc.netinsight.co.kr
 0.0.0.0 js.newsmobile.co.kr
 0.0.0.0 ad.newssense.co.kr
 0.0.0.0 search2.nuriclick.co.kr
@@ -86809,9 +86795,6 @@
 0.0.0.0 www.eden21.net
 0.0.0.0 ma1498-r.analytics.edgekey.net
 0.0.0.0 ma156-r.analytics.edgekey.net
-0.0.0.0 adservrs.com.edgekey.net
-0.0.0.0 ipv6-wildcard.applovin.com.edgekey.net
-0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 analytics.libertymutual.com.edgekey.net
 0.0.0.0 secure-ds.serving-sys.com.edgekey.net
@@ -88604,7 +88587,6 @@
 0.0.0.0 webuyanyphone.ojrq.net
 0.0.0.0 whitefence.ojrq.net
 0.0.0.0 yaysave.ojrq.net
-0.0.0.0 adultswim.hb.omtrdc.net
 0.0.0.0 cbn.hb.omtrdc.net
 0.0.0.0 coxnet.hb.omtrdc.net
 0.0.0.0 disneyinternational.hb.omtrdc.net
@@ -88618,9 +88600,7 @@
 0.0.0.0 nhkonline.hb.omtrdc.net
 0.0.0.0 postmedia.hb.omtrdc.net
 0.0.0.0 stanfordhealthcare.hb.omtrdc.net
-0.0.0.0 stv.hb.omtrdc.net
 0.0.0.0 vice.hb.omtrdc.net
-0.0.0.0 mtv0.hb-api.omtrdc.net
 0.0.0.0 ns11.omtrdc.net
 0.0.0.0 ns12.omtrdc.net
 0.0.0.0 gapcanada.ca.ssl.d1.sc.omtrdc.net
@@ -89090,6 +89070,7 @@
 0.0.0.0 aws.predictiveresponse.net
 0.0.0.0 www.predictiveresponse.net
 0.0.0.0 fishadz.pressflex.net
+0.0.0.0 pressizer.net
 0.0.0.0 media.primalforce.net
 0.0.0.0 primarystrike.net
 0.0.0.0 primetag.net
@@ -90809,7 +90790,6 @@
 0.0.0.0 www2.citizensclimatelobby.org
 0.0.0.0 click2m.org
 0.0.0.0 clickability.org
-0.0.0.0 github.com.cnpmjs.org
 0.0.0.0 analytics.codeforscience.org
 0.0.0.0 analytics.codeskulptor.org
 0.0.0.0 codevexillium.org
@@ -91631,6 +91611,7 @@
 0.0.0.0 ws.webcaster.pro
 0.0.0.0 widget.webica.pro
 0.0.0.0 webminer.pro
+0.0.0.0 wokewhoki.pro
 0.0.0.0 aa.zerg.pro
 0.0.0.0 smetrics.seat.ps
 0.0.0.0 ads.shasha.ps
