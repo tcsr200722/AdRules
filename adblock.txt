@@ -6,8 +6,8 @@
 ! Expires: 12 Hours
 ! Description: 该规则合并自My AdFilters（for PC），EdentwCustom，adgk，Adaway，Uniartisan，规则以及乘风规则等
 ! Version: Wed 12/29/2021
-! Last modified: Wed 12/29/2021T10:16:25.16Z
-! Total count: 137087
+! Last modified: Wed 12/29/2021T22:13:26.45Z
+! Total count: 137117
 
 
 ###A9AdsMiddleBoxTop
@@ -4476,6 +4476,7 @@
 ###block-googleads3
 ###block-googleads3-2
 ###block-ibtimestv-player-companion-ad
+###block-leaderboard-ad-channel
 ###block-localcom-localcom-ads
 ###block-ltadvertising-ltadvertising
 ###block-nst-googledfp-site-takeover
@@ -18948,6 +18949,7 @@
 ##.lg-ads-skin-container
 ##.lgRecAd
 ##.lg_ad
+##.liberty-ad-renderer-iframe
 ##.liboxads
 ##.ligatus
 ##.lightad
@@ -19626,6 +19628,7 @@
 ##.native-ad-placeholder
 ##.native-ad-promoted-provider
 ##.native-ad-slot
+##.native-ad__first
 ##.native-adv
 ##.native-advts
 ##.native-leaderboard-ad
@@ -26755,6 +26758,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .k618.cn/sytab/
 .k618.cn/zbggw/
 .ke/ads/
+.keap-link015.com/$image
 .kijiji.ca/r/
 .klclick.com/$image
 .la/style/vue.js?v=
@@ -41000,6 +41004,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 36dm.com##[href^="/qxads/ads"],a[href="http://www.acgsou.com/"]
 36kr.com##.goapp-btn
 36kr.com##.goapp-wrapper > .kr-mobile-goapp
+36kr.com##.home-ad-flow-banner
+36kr.com##.kr-ad-home-flow-banner
 36kr.com##.open-app-fixed
 36kr.com##.phone
 36kr.com##.slide-in.suction-bottom > .kr-mobile-goapp
@@ -54609,6 +54615,7 @@ he-games.com###he_banner_ad
 he-games.com###he_bottom_ad
 he.xinhuanet.com##[id^="idx-ad-"],.idx-ad,#idx-srch-ad,#idx-bk1-adl,#bk-list-ad
 he2d.comhnjls.com.cn
+hea.cn###top_slides_box
 headforpoints.com##.widget--aside.widget
 health.tvbs.com.tw##.ad_desktop_top
 health.tvbs.com.tw,idreamx.com,xchina.co,99kubo.tv,manhuafen.com##.ad
@@ -54921,6 +54928,7 @@ hs.dety.men$$div[style="padding:0 10px;overflow:hidden"]
 hs.dety.men$$img[data-src=".GIF"]
 hs.dety.men$$span[style="display:inline-block;color:RoyalBlue"]
 hsck.org##img[height="60px"]
+hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
 hsw.cn##DIV.area.ad,DIV.ad-area,DIV.top_banner,DIV.wrapper.AdTop.hidden-tablet.hidden-phone,DIV.adbox,DIV.w1000.clearfix,IFRAME#indexad,TD[width="145"][height="90"],DIV[class^="gghf"],TABLE[width="950"][height="147"]
 htai.co##.ml_ad_widget,img[src^="https://img.alicdn.com/imgextra/"]
@@ -56174,6 +56182,7 @@ jiegeng.com,qq.com##.banner_1111
 jiemian.com###ad_header_top
 jiemian.com##.app-open
 jiemian.com##.header-container > div > section[style="width: 100%;"]
+jiemian.com##.nav-next-ad-views
 jigzone.com###fH
 jijidown.com##.Box-4x4
 jijidown.com##div[style="height: 462px;"]
@@ -58564,6 +58573,9 @@ ndtv.com##.taboolFeed
 ndwww.cn##div.indexAdsbot,div.rigad,div.topAd,div.ad,div.r-ad1
 neatstudio.com##a[href*="&cps_key="]
 needrom.com#@##ba_banner61
+needsomefun.net###text-36
+needsomefun.net###text-41
+needsomefun.net###text-42
 neets.cc#?#div[class]:-abp-has(> div > .home_p)
 neihanshe.cn###mobile_client
 neihanshequ.com###appDownload
@@ -61199,6 +61211,9 @@ smashboards.com##.premiumContain
 smbc-comics.com###boardleader
 smbc-comics.com###comicright > div[style]
 smjb.net##div[style*="height: 50%"]
+smm.cn##.ad_front_container
+smm.cn##.common-jinzhu-wrap
+smm.cn##.top_taishan_jinzhu
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 smsfi.com##.google_ad_home_page_100percent
 smutr.com##a[href^="https://smutr.com/?action=trace"]
@@ -64060,7 +64075,6 @@ www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@aria-posinset
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@id="watch_feed"]//div[@data-pagelet="MainFeed"]//a[@aria-label="label"]//ancestor::div[8][not(@id)][starts-with(@class,"_")]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/object[@type="nested/pressable"]/a[@role="link"]/span[contains("|Patrocinado|Sponsa|Bersponsor|Commandité|Ditaja|Gesponsert|Gesponsord|Patrocinado|Publicidad|Sponsa|Sponset|Sponsored|Sponsorisé|Sponsorizat|Sponsorizzato|Sponsorlu|Sponsorowane|Реклама|ממומן|تمويل شوي|دارای پشتیبانی مالی|سپانسرڈ|مُموَّل|प्रायोजित|সৌজন্যে|ได้รับการสนับสนุน|内容|贊助|Sponsoroitu|May Sponsor|Được tài trợ|", concat("|", text(), "|"))]/ancestor::span[2]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@class]/a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Patrocinado" or .="Publicidad" or .="Sponsa" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][string-length(@class) <= 225]//span[(count(descendant::span) > 40)]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]/ancestor-or-self::div[@data-pagelet="FeedUnit_1" or @aria-posinset="2"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label][@href][@role="link"][@tabindex="0"]//div[@class]/span[@class][contains(normalize-space(),"Sponsored")]/ancestor::a[@aria-label][1]'
 www.facebook.com,web.facebook.com#$#json-override 'data.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.text data.viewer.news_feed.edges.0.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.text' 14213549526573598 '' /SPONSORED/; hide-if-matches-xpath '//*[contains(text(),"14213549526573598")]/ancestor::div[@class]/div[@aria-posinset or @aria-describedby or @aria-labelledby]'
 www.famens.com##.adpic,.capital,[href^="/AdLinks_"],.pic-row3
@@ -64868,6 +64882,7 @@ yatu.tv###a_d1
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
 yatu.tv,yhdm5.com##+js(set,document.oncontextmenu,trueFunc)
 yb983.com##div[id^="pop"]
+yc58.com###contain1
 ycuniverse.com##.subheader_container
 ycwb.com##div.t2_720.fl,div.b2_220.fr,DIV.layout.clearfix > SPAN[style],div.adv-banner,div.adv-txt.clearfix
 yczbb.com##div#noad
@@ -68854,6 +68869,7 @@ zznews.cn##.ad:not([style])
 ||91feiyong.com^
 ||91friend.com^$third-party
 ||91funcy.com^
+||91hs005.xyz/p/
 ||91hui.com^
 ||91ivr.com^
 ||91jbz.com/file/script/A
@@ -76025,6 +76041,7 @@ zznews.cn##.ad:not([style])
 ||azureedge.net/wp-content/cache/minify/d2299.js
 ||azureedge.net/wp-content/uploads/*-AD0
 ||azurewebsites.net/TrackView/
+||azurewebsites.net/api/views?
 ||azurewebsites.net/telemetryapi^
 ||azurewebsites.net^*/telemetry.js
 ||azury.gg^
@@ -79752,6 +79769,7 @@ zznews.cn##.ad:not([style])
 ||caringcast.com^$third-party
 ||caringzinc.com^$third-party
 ||carl.pubsvs.com^
+||carlseb.xyz^
 ||carnoc.com/noticejs/
 ||caroda.io^$third-party
 ||carolina.actonservice.com^
@@ -85142,6 +85160,7 @@ zznews.cn##.ad:not([style])
 ||dazhi360.cn^
 ||dazhonghua.cn^
 ||dazibenwm.com^
+||db-ip.com^$third-party
 ||db52cc91beabf7e8.com^
 ||db64500e2426cf.com^
 ||dba.dk/ajax/tracking
@@ -89778,6 +89797,7 @@ zznews.cn##.ad:not([style])
 ||f338113ad0.com^
 ||f3551539d6565853.com^
 ||f35c5dba3b0b5b017.com^
+||f362.nola.com^
 ||f3f1317bda.com^
 ||f3rs4np1c5.site^
 ||f4082.cn^
@@ -95792,6 +95812,7 @@ zznews.cn##.ad:not([style])
 ||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||hugregregy.pro^
 ||hugregregy.pro^$popup
+||hugvr.cn^
 ||huhai.cdwz8.cn^
 ||huhangkuaiji.cn^
 ||huhue.com^
@@ -100255,6 +100276,7 @@ zznews.cn##.ad:not([style])
 ||kissmetrics.com^$third-party
 ||kissmetrics.io^$third-party
 ||kissstarringplight.com^
+||kisssub.*/public/imgbed/gg/
 ||kisstesting.com^$third-party
 ||kistutch.net^
 ||kitbag.com/api/track|
@@ -107053,6 +107075,7 @@ zznews.cn##.ad:not([style])
 ||mprgbyn.cn^
 ||mps-gba.de^$third-party
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
+||mps.wenkuzu.com^
 ||mps.yuwenba.cn^
 ||mpstat.us^$third-party
 ||mptentry.com^
@@ -107566,6 +107589,7 @@ zznews.cn##.ad:not([style])
 ||myprivacy.dpgmedia.net/audits
 ||myprofile.panasonic.eu^
 ||myprofile.technics.eu^
+||mypush.online^$third-party
 ||mypushz.com^
 ||mypushz.com^$popup
 ||myqcloud.com/ad/
@@ -108808,6 +108832,7 @@ zznews.cn##.ad:not([style])
 ||notiks.io^
 ||notimoti.com^$popup
 ||notionnalisent.xyz^
+||notix.io^$third-party
 ||notmining.org^$third-party
 ||notorietycheerypositively.com^
 ||notorietyharvest.com^
@@ -114763,6 +114788,7 @@ zznews.cn##.ad:not([style])
 ||qzfrmewdbzkcsf.com^
 ||qzgbhuelut.com^
 ||qzgs99.cn^
+||qzi-ggjsyuming.com^
 ||qzkxt.com^
 ||qzlglizfy.com^
 ||qzlog.com^$third-party
@@ -132437,6 +132463,7 @@ zznews.cn##.ad:not([style])
 ||widgets.comcontent.net^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
+||widgets.outbrain.com^$domain=cnn.com
 ||widgets.pinterest.com/*/urls/count.json
 ||widgets.progrids.com^
 ||widgets.tree.com^
@@ -134081,6 +134108,7 @@ zznews.cn##.ad:not([style])
 ||xiaobi*.com/layer/layer.js
 ||xiaochengzhixue.com^
 ||xiaodigufz.com/ggt/
+||xiaodongjun.com^
 ||xiaodutv.com/xda?
 ||xiaoertuina.top^
 ||xiaofashi.top^
@@ -134959,6 +134987,7 @@ zznews.cn##.ad:not([style])
 ||ybtianxi.com^
 ||ybx.yahoo.co.jp^
 ||ybzcmz.momoshop.com.tw^
+||yc58.com/tencent
 ||yccdn.com/
 ||yccz.net/xml/
 ||ycembr.net-a-porter.com^
@@ -136966,6 +136995,7 @@ zznews.cn##.ad:not([style])
 ||zybrdr.com^
 ||zybveu.swappie.com^
 ||zydyjzw.cn^
+||zyezhz.cn^
 ||zyiis.net^
 ||zykxjt.com^
 ||zymbrlgu.cn^
