@@ -6,7 +6,7 @@
 ! 该规则合并自各大过滤器的白名单
 
 ! Version: Fri 12/31/2021
-! Last modified: Fri 12/31/2021T10:15:03.45Z
+! Last modified: Fri 12/31/2021T22:13:16.49Z
 ! Total count: 3138
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
