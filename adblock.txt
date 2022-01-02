@@ -6,8 +6,8 @@
 ! Expires: 12 Hours
 ! Description: 该规则合并自My AdFilters（for PC），EdentwCustom，adgk，Adaway，Uniartisan，规则以及乘风规则等
 ! Version: Sun 01/02/2022
-! Last modified: Sun 01/02/2022T10:14:17.77Z
-! Total count: 137308
+! Last modified: Sun 01/02/2022T22:12:45.53Z
+! Total count: 137330
 
 
 ###A9AdsMiddleBoxTop
@@ -23300,6 +23300,7 @@
 ##[data-ad-width]
 ##[data-dynamic-ads]
 ##[data-freestar-ad]
+##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
 ##[href*=".adcampo.com/"]
 ##[href*=".afftracks.online/"]
@@ -49579,6 +49580,7 @@ baidu.com##.bannerdown
 baidu.com##.bds-list-ads
 baidu.com##.bottom-guide
 baidu.com##.bottom-right-dsp-ad-wrap
+baidu.com##.businessvip-wrapper
 baidu.com##.c-container.ec-container
 baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 baidu.com##.cbg-Ads
@@ -54339,6 +54341,7 @@ guloggratis.dk#@#.ad-links
 guloggratis.dk#@#.gallery-ad
 gumtree.com###vipBanner
 gumtree.com##.ecn-display-block
+gumtree.com##.space-pbs.space-pts
 gumtree.com.au##.cars__side-mrec-wrapper
 gumtree.com.au##.header--is-new-sticky-behaviour
 gumtree.com.au##.homepage-gallery__mrec-placeholder
@@ -55703,6 +55706,7 @@ iplaysoft.com###sidebar_scroll_bdad
 iplaysoft.com##.crumb_ad
 iplaysoft.com##.d250
 iplaysoft.com##.d250x90
+iplaysoft.com##.entry-content + div[style="margin:-10px 0 0 0;overflow:hidden"]
 iplaysoft.com##.widget[style]
 iplaysoft.com##DIV.d336,DIV.d250,UL#section_event,DIV#sidebar_scroll_bdad,DIV.widget_content_b,ins.adsbygoogle,div.d300,#bottom_ad,div[style*="width:336px;height:280px"],#sidebar_scroll,.widget[style],[style^="width:680px;height:166px;"],[style*="height:132px;width:682px;"],.sidebar_bdad_list,div[style*="height:150px;width: 980px;"],[style^="width:300px;height:250px;"],[id^="BAIDU_SSP__wrapper_"],.widget_b
 iplaysoft.com##div[style*="width:3"][style*="height:2"]
@@ -59876,6 +59880,7 @@ postimees.ee#@#.ad01
 postroll$xmlhttprequest,domain=iprima.cz
 postyourpuss.com###leaderboard
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
+power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
 power.baidu.com,zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 powerboat-world.com###rotator_url
 powvideo.net,streamplay.to###overlay
@@ -61277,6 +61282,7 @@ smallbusiness.co.uk##.homepage-banner-container
 smallseotools.com##.____hmmmmmm
 smallseotools.com##.sidebar_adds
 smarter.com##.favboxmiddlesearch
+smartprix.com##.dadow-box
 smashboards.com###noticeMain
 smashboards.com##.premiumContain
 smbc-comics.com###boardleader
@@ -67463,6 +67469,7 @@ zznews.cn##.ad:not([style])
 ||36500.net^$third-party
 ||365339.top^
 ||365bibi.com^
+||365cf.vip^
 ||365che.cc^
 ||365dmp.com^$third-party
 ||365kl.net/data/attachment/portal/
@@ -78914,6 +78921,7 @@ zznews.cn##.ad:not([style])
 ||bst-offers.com^$popup
 ||bstias.avilon.ru^
 ||bstn-14-ma.com^$third-party
+||bsytjc.com^
 ||bszmpfaj.com^
 ||bt-xd.com^
 ||bt.cn/bbs/newsimg/
@@ -84333,6 +84341,7 @@ zznews.cn##.ad:not([style])
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^$script
 ||d11enq2rymy0yl.cloudfront.net^
+||d11hjbdxxtogg5.cloudfront.net^
 ||d11tybz5ul8vel.cloudfront.net^
 ||d12ysuoljjyfqa.cloudfront.net^
 ||d12ysuoljjyfqa.cloudfront.net^$script
@@ -89033,6 +89042,7 @@ zznews.cn##.ad:not([style])
 ||eobgrawc.xyz^
 ||eocceucbqnu.com^
 ||eofgreatid.biz^
+||eoidr.cn^
 ||eoiqpm.gloria-jeans.ru^
 ||eol.cn/e_busi/
 ||eol.cn/e_images/gk/jnc
@@ -90881,6 +90891,7 @@ zznews.cn##.ad:not([style])
 ||flixcar.com/delivery/
 ||flixcar.com/gvid
 ||flixcar.com^$third-party
+||flixcart.com/px/gNtTli3A/init.js
 ||flixcdn.com^*/track.js
 ||flixcontentshop.com^
 ||flixcontentshop.com^$popup
@@ -96017,6 +96028,7 @@ zznews.cn##.ad:not([style])
 ||huoche.net/public/huoche/ad/
 ||huodiyun.cn^
 ||huodong.m.taobao.com/act^$third-party
+||huofayu.com^
 ||huojua.com^
 ||huojua1.com^
 ||huojub.com^
@@ -109350,6 +109362,7 @@ zznews.cn##.ad:not([style])
 ||nzpages.co.nz/modules/common/track.js
 ||nzphoenix.com^
 ||nzq5.u95ivu.xyz^$third-party
+||nzsknxo.cn^
 ||nztrimhg5fd1.com^
 ||nzydzsw.com^
 ||nzydzsw.com^$third-party
@@ -114659,6 +114672,7 @@ zznews.cn##.ad:not([style])
 ||qqq937.com$third-party
 ||qqqmmm.top^
 ||qqqwes.com^
+||qqqwww987.online^
 ||qqread.com/*js/$script
 ||qqread.com/swf/
 ||qqrqib.magellans.com^
@@ -115264,6 +115278,7 @@ zznews.cn##.ad:not([style])
 ||rcs.mako.co.il/js/neo/hpstats.js
 ||rcs.mako.co.il/js/scripts/metrics.js
 ||rcsobjects.it/rcs_tracking-service/v1/distro/HTML/trservice.shtml
+||rctxubn.cn^
 ||rcurn.com^
 ||rcvlink.com^
 ||rcvlinks.com^
@@ -115275,6 +115290,7 @@ zznews.cn##.ad:not([style])
 ||rd.com/wp-content/plugins/rd-parsely-multisite/js/dynamic-tracker.js
 ||rd.kuaigames.com^
 ||rd.rakuten.co.jp^$script
+||rd926.cn^
 ||rdance.cn/g-
 ||rdance.cn^
 ||rdbd.xsread.com^
@@ -121406,6 +121422,7 @@ zznews.cn##.ad:not([style])
 ||sms-xxx.com^$third-party
 ||sms.gestion.cetelem.fr^
 ||smsaffari.it/count_new.php?
+||smsk.site^
 ||smtc.jetstar.com^
 ||smtc.qantas.com.au^
 ||smtc.qantas.com^
@@ -124966,6 +124983,7 @@ zznews.cn##.ad:not([style])
 ||szfaq.com^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szfhl99.com^
 ||szggdw.com^
 ||szhdhbz.com^
 ||szhgmd.com^
@@ -125361,6 +125379,7 @@ zznews.cn##.ad:not([style])
 ||tags.creativille.co.uk^
 ||tags.globo.com/utag/globo/*/prod/utag.js
 ||tags.globo.com^
+||tags.johnlewis.com^
 ||tags.master-perf-tools.com^
 ||tags.news.com.au^$script
 ||tags.news.com.au^$~script
@@ -134250,6 +134269,7 @@ zznews.cn##.ad:not([style])
 ||xhxnkyy.com^
 ||xhydrs.cn^
 ||xhymsq.com/data/attachment/portal/
+||xhzmjs.com^
 ||xhzugaqnqo.com^
 ||xi0021.com^
 ||xi666.com^
@@ -135245,6 +135265,7 @@ zznews.cn##.ad:not([style])
 ||yellowbrix.com^$third-party
 ||yellowpages.com.jo/uploaded/banners/
 ||yellowpages.com.lb/uploaded/banners/
+||yema.shop^
 ||yemancomic.com/static/maoshuang.js
 ||yemancomic.com/static/xiaomage.js
 ||yemingxing.top^
@@ -136019,6 +136040,7 @@ zznews.cn##.ad:not([style])
 ||yumenetworks.com^
 ||yumi06.com^
 ||yumingdan.top^
+||yummycuisine.club^
 ||yumu.pro^
 ||yun-pdm2000.cn^
 ||yun-pdm5000.cn^
