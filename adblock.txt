@@ -6,8 +6,8 @@
 ! Expires: 12 Hours
 ! Description: 该规则合并自My AdFilters（for PC），EdentwCustom，adgk，Adaway，Uniartisan，规则以及乘风规则等
 ! Version: Wed 01/05/2022
-! Last modified: Wed 01/05/2022T10:15:08.83Z
-! Total count: 137576
+! Last modified: Wed 01/05/2022T22:13:32.74Z
+! Total count: 137603
 
 
 ###A9AdsMiddleBoxTop
@@ -16611,6 +16611,7 @@
 ##.contentTopAdSmall
 ##.contentTopAds
 ##.content_468_ad
+##.content__ad__content
 ##.content_ad
 ##.content_ad_300
 ##.content_ad_728
@@ -34338,6 +34339,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /hiadone_
 /hikaku/banner/*
 /hints.netflame.cc/*
+/histats.js
 /histats/*
 /hit-counter.
 /hit-counter/*
@@ -40274,6 +40276,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 10pan.cc###dl_tips,#b1
 10pan.cn###down_box{display:block!important;}
 10pan.cn##[style="height:60px;"],#r1,.adsbygoogle,#b1
+10play.com.au,ebay.com,geo.tv,jozifm.co.za,nwherald.com,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###fixed_bar
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###fixed_daoliu
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###global_notice_wrap
@@ -52740,7 +52743,6 @@ ebay.com##.fdad1
 ebay.com##.ggtm
 ebay.com##div[title="ADVERTISEMENT"]
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
-ebay.com,geo.tv,jozifm.co.za,nwherald.com,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
 ebay.de##li[class^="s-item s-item__sep-on-bottom"]
 ebay.de#$#hide-if-contains-visible-text /Anzeige|ANZEIGE/ 'li.s-item' 'li.s-item span[role="text"]'
 ebay.de#$#hide-if-matches-xpath './/div[contains(@class,"s-item__")]/following-sibling::span[@class]/span[@role="text"][count(child::span[@class]) >= 28][(contains(text(),""))]/ancestor::li[1][starts-with(@class,"s-item")]'
@@ -54325,7 +54327,6 @@ graffica.info#@#.text-ad-link
 graffica.info#@#.text_ads
 grammarist.com##div>*:not(base):not(feOffset):not(ym-measure):not(defs):not(head):not(circle):not(clippath):not(g):not(svg):not(path):not(noscript):not(link):not(title):not(script):not(meta):not(style):not(a):not(abbr):not(address):not(area):not(article):not(aside):not(audio):not(b):not(bdi):not(bdo):not(blockquote):not(body):not(br):not(button):not(canvas):not(caption):not(cite):not(code):not(col):not(colgroup):not(command):not(datalist):not(dd):not(del):not(details):not(dfn):not(div):not(dl):not(dt):not(em):not(embed):not(fieldset):not(figcaption):not(figure):not(footer):not(form):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(hr):not(html):not(i):not(iframe):not(img):not(input):not(ins):not(kbd):not(keygen):not(label):not(legend):not(li):not(main):not(map):not(mark):not(menu):not(meter):not(nav):not(object):not(ol):not(optgroup):not(option):not(output):not(p):not(param):not(pre):not(progress):not(q):not(rp):not(rt):not(ruby):not(s):not(samp):not(section):not(select):not(small):not(source):not(span):not(strong):not(sub):not(summary):not(sup):not(table):not(tbody):not(td):not(textarea):not(tfoot):not(th):not(thead):not(time):not(tr):not(track):not(u):not(ul):not(var):not(video):not(wbr):not(font):not(line):not(text):not(filter):not(image):not(noindex):not(center):not(picture)
 grannymommy.com##.banner-on-player
-gratisaftehalen.nl#@#.ads-image
 greasyfork.org##div.ad
 greatandhra.com##.great_andhra_main_add_rotator1
 greatandhra.com##div[class^="add"]
@@ -69814,6 +69815,7 @@ zznews.cn##.ad:not([style])
 ||a2c653c4d145fa5f96a.com^
 ||a2dfp.net^$third-party
 ||a2m.cn^
+||a2platinum.vip^
 ||a2pub.com^$third-party
 ||a2put.chinaz.com^
 ||a2z.com/sping?
@@ -73614,6 +73616,7 @@ zznews.cn##.ad:not([style])
 ||amadagasca.com^
 ||amadesa.com^$third-party
 ||amajorinryes.com^
+||amajorinryes.com^$popup
 ||amandajuliett.com^
 ||amarceusan.com^
 ||amarfa.ir^$third-party
@@ -78539,6 +78542,7 @@ zznews.cn##.ad:not([style])
 ||boardx.huanqiu.com^
 ||boarshrubforemost.com^
 ||boassistant.com^
+||boasstylijoked.com^
 ||boayipids.com^
 ||bob.gitclear.com^
 ||bobaidu8.com^
@@ -83965,6 +83969,7 @@ zznews.cn##.ad:not([style])
 ||csi.gstatic.com^$domain=promiflash.de,redirect=nooptext,important
 ||csiasvapqrccq.com^
 ||csjs.ltd^
+||cslcjaoerfbuxrq.top^
 ||csm.cxpublic.com^
 ||csmetrics.wilton.com^
 ||csp-collector.appspot.com^
@@ -90653,6 +90658,7 @@ zznews.cn##.ad:not([style])
 ||feministascertained.com^
 ||femvxitrquzretxzdq.info^$popup
 ||fenbo.cn^
+||fendhaunteddelay.com^
 ||fenefa.com^
 ||feng.com/adg.js
 ||fengbuy.com/recommend-new.
@@ -94819,6 +94825,7 @@ zznews.cn##.ad:not([style])
 ||hcwang.cn/images/g/*.swf
 ||hcwaxejunyzvxt.com^
 ||hcwljy.com^
+||hcwloycadkpcva.top^
 ||hcxfsh.publicdesire.com^
 ||hczkduimaipr.com^
 ||hczzw.com^
@@ -95184,6 +95191,7 @@ zznews.cn##.ad:not([style])
 ||hhcskj.com^
 ||hhfhgf.cc^
 ||hhfun.cn^
+||hhhfe.cn^
 ||hhhhbf.com^
 ||hhit.xyz^
 ||hhllryxtfgypz.com^
@@ -98488,6 +98496,7 @@ zznews.cn##.ad:not([style])
 ||irecommend.ru/collect/
 ||iredirect.net^
 ||irements.club^
+||iremukentsiw.com^
 ||iridiumsergeiprogenitor.info
 ||iridiumsergeiprogenitor.info^$third-party
 ||irishdev.com/files/banners/
@@ -100114,6 +100123,7 @@ zznews.cn##.ad:not([style])
 ||jyshavefu.com^
 ||jysjian.com/public//z
 ||jystea.com^
+||jytetnyuauwiwgf.top^
 ||jytitenu.com^
 ||jytjw.com^
 ||jyzae.cn^
@@ -108845,6 +108855,7 @@ zznews.cn##.ad:not([style])
 ||nhdhoj.ibs.it^
 ||nhentai.com/images/offers/ga/desktop/
 ||nhesekiqgoifti.com^
+||nhfhqcbtmj.top^
 ||nhfpdc.cn^
 ||nhgmdwaqsd.top^
 ||nhk.jp^*/bc.gif?
@@ -111941,6 +111952,7 @@ zznews.cn##.ad:not([style])
 ||pexa.realestate.com.au^
 ||pexels.com^*/sponsored_
 ||pexu.com^$popup
+||peymdpws.top^
 ||peyqvn.falke.com^
 ||pezrphjl.com^
 ||pezxux.footlocker.co.uk^
@@ -112603,6 +112615,7 @@ zznews.cn##.ad:not([style])
 ||plas.imfeld.dev^
 ||plashcashierbleach.com^
 ||platado.com^
+||platesworked.com^
 ||platform.datazoom.io/beacon/
 ||platform.iteratehq.com^
 ||platform.twitter.com/impressions.js
@@ -114688,6 +114701,7 @@ zznews.cn##.ad:not([style])
 ||qiruidea.com^
 ||qishenga.com^*.gif$domain=meiju11.com
 ||qishu.cc/skins/common.js
+||qistgfokje.top^
 ||qitete.com/mid/
 ||qitete.com/sp/$script
 ||qitete.com/template/phone/images/$script
@@ -114750,6 +114764,7 @@ zznews.cn##.ad:not([style])
 ||qjcpcy.imkosmetik.com^
 ||qjezukyqwj.com^
 ||qjhlc.com^
+||qjhtdsstyrbc.top^
 ||qjxiyt.respect-shoes.ru^
 ||qjxszp.cn^
 ||qjyzj.cn^
@@ -115947,6 +115962,7 @@ zznews.cn##.ad:not([style])
 ||reliablespecified.com^
 ||reliancehamlet.com^
 ||reliancevalve.com^
+||relivesovereign.com^
 ||relmaxtop.com^$third-party
 ||relytec.com^$third-party
 ||rem-track.bild.de^
@@ -116286,6 +116302,7 @@ zznews.cn##.ad:not([style])
 ||revupads.com^
 ||rewardsaffiliates.com^
 ||rewardtv.com^$third-party
+||rewardunderneathreport.com^
 ||rewhichesa.info^
 ||rewriteconserve.com^
 ||rexadvert.xyz^
@@ -117127,6 +117144,7 @@ zznews.cn##.ad:not([style])
 ||ryturtviaqcana.top^
 ||ryvapi.fragrancenet.com^
 ||rywoments.info^
+||ryxfyjvcdugdf.com^
 ||ryynoljdarrw.com^
 ||rz261.cn^$third-party
 ||rzarxl.ovs.it^
@@ -117507,6 +117525,8 @@ zznews.cn##.ad:not([style])
 ||sadbmetrics.xlsemanal.com^
 ||sadbmetrics.zendalibros.com^
 ||sadesriffsmap.com^
+||sadirectresu.com^
+||sadirectresu.com^$popup
 ||sadits.com^
 ||sadjk.com^
 ||sadlyfortunesgame.com^
@@ -125100,6 +125120,7 @@ zznews.cn##.ad:not([style])
 ||sxrgd.com^
 ||sxsui.cn^
 ||sxswjkgs.com^
+||sxtcdjy.com^
 ||sxtyhl.top^
 ||sxxfmc.com^
 ||sxxjdz.com^
@@ -126686,6 +126707,7 @@ zznews.cn##.ad:not([style])
 ||tics.seeker.gg^
 ||tics.techdirt.com^
 ||ticsandski.club^
+||ticuru.com^
 ||tidaltv.com^
 ||tidint.pro^
 ||tidningsnatet.se^$third-party
@@ -129685,6 +129707,7 @@ zznews.cn##.ad:not([style])
 ||tz-dsp.com^$third-party
 ||tz284.com^$third-party
 ||tzbtw.com^
+||tzfafzmooqum.com^
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
@@ -130263,6 +130286,8 @@ zznews.cn##.ad:not([style])
 ||unusedquestion.com^$third-party
 ||unusedstone.com^
 ||unusedstone.com^$third-party
+||unusuallygravely.com^
+||unusuallygravely.com^$popup
 ||unusualtitle.com^
 ||unusualtitle.com^$third-party
 ||unvexedmehari.com^
@@ -130717,6 +130742,7 @@ zznews.cn##.ad:not([style])
 ||vaebard.com^
 ||vaedan.top^
 ||vafbmmsda.com^
+||vagime.com^
 ||vaileeps.com^
 ||vailresorts.hb.omtrdc.net^
 ||vainews.cn^
@@ -136769,6 +136795,7 @@ zznews.cn##.ad:not([style])
 ||zgcqxjzny.cn^
 ||zgctig.cn^
 ||zgfszs.com^
+||zghowanhgcxbpf.com^
 ||zgjjkk.com^
 ||zgjkv.com^
 ||zgktxx.com^
