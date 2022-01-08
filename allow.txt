@@ -5,8 +5,8 @@
 ! Expires: 12 Hours
 ! 该规则合并自各大过滤器的白名单
 
-! Version: Fri 01/07/2022
-! Last modified: Fri 01/07/2022T22:13:33.22Z
+! Version: Sat 01/08/2022
+! Last modified: Sat 01/08/2022T10:14:45.37Z
 ! Total count: 3138
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
